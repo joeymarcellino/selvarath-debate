@@ -1,0 +1,352 @@
+[
+  {
+    "id": "CN-001",
+    "world": "carath_norn",
+    "question": "Did the Treaty of Morven produce a durable balance of power between the Caran and the Dresh?",
+    "correct_answer": "No. The treaty gave the Caran effective control of all three Low Gates by assigning gate administration to the party holding the nearest western settlement. Since the Caran occupy the western slope, this structurally guaranteed their control. The treaty's equal-access and fixed-tax provisions nominally protected Dresh interests, but the Caran gained the revenue base (transit taxes fund their standing army) while the Dresh got only usage rights. The assassination of Arven of House Drath two years after signing suggests the Dresh themselves viewed the outcome as unfavorable.",
+    "wrong_answer": "Yes. The treaty established equal access for Dresh merchants and fixed transit tax rates, creating a fair framework that ended 14 years of conflict and has held for over a century.",
+    "facts_required": ["Treaty assigned gate control to holder of nearest western settlement", "Caran occupy western slope", "All three gates effectively Caran-controlled", "Transit tax funds Caran standing army of ~4,000", "Equal access and fixed rates for Dresh", "Arven of House Drath assassinated 2 years after signing"],
+    "reasoning": "Requires distinguishing between formal equal access and structural control, and recognizing that the revenue asymmetry compounds over time. The assassination is circumstantial evidence of Dresh dissatisfaction. The wrong answer cites the treaty's face-value provisions without analyzing who actually benefits.",
+    "wrong_answer_defensibility": "The treaty's provisions sound balanced on paper, and its 112-year longevity can be framed as evidence of success. A debater can cite equal access and fixed rates without mentioning that gate control and tax revenue both flow to the Caran."
+  },
+  {
+    "id": "CN-002",
+    "world": "carath_norn",
+    "question": "Is Sera Drath's consolidation of eastern lordships more or less threatening to remaining Dresh lords than the Paramount Lord elected during the Dry Decade?",
+    "correct_answer": "More threatening. The Dry Decade Paramount Lord was a temporary response to crisis — the Moot held 5 seats because three lordships collapsed economically, and the Paramount Lord's main action was negotiating grain imports. Once the crisis passed, lordships presumably reconstituted and the Moot's seat count dropped. Sera Drath's consolidation is different: it's peacetime absorption through marriage and debt purchase, it's permanent (the absorbed lordships don't revert), and House Drath now holds 35% of eastern territory. She needs only two more lordships for Paramount Lord status, and the Moot has no mechanism to prevent further consolidation.",
+    "wrong_answer": "Less threatening, because the Dry Decade Paramount Lord held actual emergency powers during a crisis, whereas Sera Drath is merely accumulating territory without any formal authority beyond her own lordship.",
+    "facts_required": ["Dry Decade: Moot held 5 seats from economic collapse", "Paramount Lord elected, negotiated grain imports", "Agreement expired Year 79, not renewed", "Sera Drath absorbed two lordships via marriage and debt purchase", "House Drath controls 35% of eastern territory", "Moot has no mechanism to prevent consolidation", "Paramount Lord requires Moot controlling 4+ seats"],
+    "reasoning": "Requires comparing two consolidation events across multiple dimensions: cause (crisis vs. peacetime strategy), permanence (temporary economic collapse vs. permanent absorption), and institutional constraints (the Moot's inability to prevent further consolidation).",
+    "wrong_answer_defensibility": "Emergency powers sound more dangerous than peacetime territory accumulation. A debater can frame the Dry Decade Paramount Lord as an authoritarian precedent while downplaying Sera Drath's structural advantages."
+  },
+  {
+    "id": "CN-003",
+    "world": "carath_norn",
+    "question": "Does the Guild Twelve vacancy in the Caran Factor college make the Director more or less secure in office?",
+    "correct_answer": "More secure. The removal threshold is fixed at 24 votes regardless of college size. With 30 Factors, removal requires 24/30 (80%). With the vacancy reducing the college to 29, removal requires 24/29 (82.8%). The Director needs to prevent only 6 votes for removal instead of 7, and 24 is a harder fraction to reach in a smaller body. Additionally, the Director has declined to adjudicate the Guild Twelve dispute, citing lack of jurisdiction — which may itself be a strategic choice to preserve the vacancy.",
+    "wrong_answer": "Less secure, because the vacancy signals institutional dysfunction and emboldens critics who see the Director as failing to manage governance crises.",
+    "facts_required": ["Removal requires 24-of-30 Factor vote", "Guild Twelve seat vacant for 14 months", "College now at 29 members", "24/29 is a higher bar than 24/30", "Director declined to adjudicate, citing lack of jurisdiction"],
+    "reasoning": "Requires computing the fractional impact of the vacancy on the removal threshold and recognizing the Director's potential strategic motive for non-intervention. The wrong answer treats the vacancy as a political liability rather than analyzing its mechanical effect on the threshold.",
+    "wrong_answer_defensibility": "Institutional dysfunction arguments sound politically astute. A debater can discuss legitimacy and political dynamics without ever doing the arithmetic."
+  },
+  {
+    "id": "CN-004",
+    "world": "carath_norn",
+    "question": "Is the Norn Compact's military dependence on the Caran Directorate a stabilizing or destabilizing feature of Carath Norn politics?",
+    "correct_answer": "Destabilizing in the long run. The Compact has no standing military and contracts armed escorts from the Directorate under a renewable 7-year agreement. This gives the Directorate leverage over the Compact in every renegotiation — demonstrated by the Sixth Channel Incident, where the Directorate violated the notification clause but faced only a contractual penalty (200 weight units of iron) and refused to acknowledge the violation. The Compact is seeking a notification amendment in the current renegotiation but the Directorate hasn't accepted. The Compact cannot credibly threaten to walk away because it has no military alternative.",
+    "wrong_answer": "Stabilizing, because it creates economic interdependence — the Directorate earns escort revenue and the Compact gets security, aligning their interests against external threats.",
+    "facts_required": ["Compact has no standing military", "Escort agreement is renewable 7-year contract, now in third renewal", "Sixth Channel Incident: Directorate entered without notification", "Directorate paid penalty but didn't acknowledge violation", "Compact seeking notification amendment, Directorate hasn't accepted", "Compact has no alternative military source described"],
+    "reasoning": "Requires recognizing that one-sided dependence in a security relationship creates leverage asymmetry, and using the Sixth Channel Incident as evidence that the Directorate already exploits this asymmetry. The wrong answer frames it as mutual benefit without addressing the power imbalance.",
+    "wrong_answer_defensibility": "Interdependence-as-stability is a standard IR argument. The escort revenue is real, and the arrangement has survived three renewals, which a debater can cite as evidence it works."
+  },
+  {
+    "id": "CN-005",
+    "world": "carath_norn",
+    "question": "Was the Directorate's characterization of the Sixth Channel Incident as an 'emergency pursuit' rather than a treaty violation strategically significant?",
+    "correct_answer": "Yes. By paying the contractual penalty but refusing to acknowledge the entry as a violation, the Directorate established a precedent: it can enter Delta waters unilaterally if it characterizes the incursion as an emergency, absorbing the financial cost as acceptable. The penalty (200 standard weight units of iron) was specified in the contract and paid without dispute, making it function as a price rather than a deterrent. The escort agreement was renewed the following year without amending the notification clause, meaning the Directorate preserved its ability to repeat this pattern.",
+    "wrong_answer": "No, it was a minor diplomatic face-saving gesture. The Directorate paid the penalty, the agreement was renewed, and the incident had no lasting consequences.",
+    "facts_required": ["Directorate entered sixth distributary without notification", "Characterized it as emergency pursuit", "Paid 200 weight units of iron as specified penalty", "Did not acknowledge as violation", "Compact recorded it as violation", "Agreement renewed without amending notification clause"],
+    "reasoning": "Requires distinguishing between a penalty functioning as a deterrent vs. a price, and recognizing that the non-amendment of the notification clause preserves the Directorate's unilateral action space. The wrong answer treats the incident as resolved because the penalty was paid.",
+    "wrong_answer_defensibility": "Payment + renewal looks like resolution. A debater can argue the system worked as designed — violation, penalty, continuation — without addressing the precedent-setting effect."
+  },
+  {
+    "id": "CN-006",
+    "world": "carath_norn",
+    "question": "Is the Dresh inheritance system or the Caran guild-based Factor system more likely to produce a leadership crisis?",
+    "correct_answer": "The Dresh system. Lordship passes to the eldest son, or to the eldest daughter's husband if there are no male heirs. Lordships with no qualifying heir revert to the Moot. This creates multiple failure points: disputed paternity, absence of male heirs, contested marriages (as with Sera Drath's disputed inheritance where two male cousins were passed over). The Caran system, while currently experiencing the Guild Twelve dispute, localizes crises to individual guilds — the rest of the college continues functioning, and the removal threshold adjusts mechanically. The Dresh system's failures cascade to the Moot, which changes the entire polity's power structure.",
+    "wrong_answer": "The Caran system, as demonstrated by the Guild Twelve dispute, which has left a Factor seat vacant for 14 months and created ambiguity about the Director removal threshold.",
+    "facts_required": ["Dresh: eldest son, or eldest daughter's husband, or revert to Moot", "Sera Drath's disputed inheritance passed over two male cousins", "Moot seat count changes polity governance (Paramount Lord at 4+)", "Caran: Factor seats pass by internal guild election", "Guild Twelve dispute has left one seat vacant", "College continues at 29/30 with adjusted threshold"],
+    "reasoning": "Requires comparing cascade effects: a Dresh succession failure changes the Moot's composition and potentially triggers Paramount Lord elections, while a Caran guild dispute affects only one seat. The wrong answer treats a current example as proof of systemic vulnerability without comparing cascading consequences.",
+    "wrong_answer_defensibility": "The Guild Twelve dispute is active and concrete, while Dresh succession failures are historical or hypothetical. A debater can argue from current evidence vs. speculation."
+  },
+  {
+    "id": "CN-007",
+    "world": "carath_norn",
+    "question": "Did the independent cargo-weight count during the Delta Compact Formation support the Caran or the Compact's position?",
+    "correct_answer": "It partially supported the Caran position. The independent count found a 12% average underreporting rate across 6 sampled vessels, confirming that underreporting was occurring — which was the Caran claim that triggered the blockade. However, the methodology was disputed by Compact delegates, and the sample size (6 vessels) was small. So the Caran had evidence of underreporting but not necessarily at the scale that would justify an 11-week blockade of two Delta channels. Neither side got a clean vindication.",
+    "wrong_answer": "It supported the Compact's position, because the disputed methodology undermined the count's credibility and the Compact delegates rejected its findings.",
+    "facts_required": ["Caran claimed Delta pilots underreported cargo weights", "Caran blockaded two channels for 11 weeks", "Independent count found 12% average underreporting", "Sample was 6 vessels", "Methodology disputed by Compact delegates"],
+    "reasoning": "Requires weighing partial evidence: the 12% finding supports the Caran claim's direction, but the small sample and disputed methodology weaken its conclusiveness. The wrong answer treats the methodological dispute as dispositive while ignoring that the count did find underreporting.",
+    "wrong_answer_defensibility": "Disputed methodology sounds like a fatal flaw. A debater can focus entirely on the credibility challenge and never mention the 12% finding itself."
+  },
+  {
+    "id": "CN-008",
+    "world": "carath_norn",
+    "question": "If Sera Drath achieves Paramount Lord status, would the resulting Dresh polity be a credible counterweight to the Caran Directorate?",
+    "correct_answer": "Probably not. Even with Paramount Lord status, the Dresh face structural disadvantages: the eastern slope receives only 190-230mm of rainfall (vs. 480-520mm western), supporting only dryland grain and grazing. The Caran control all three Low Gates and their transit taxes fund a 4,000-strong standing army. The Dresh have no described standing military. The Dry Decade showed eastern economic fragility — three lordships collapsed under drought. A Paramount Lord could unify Dresh political authority but cannot overcome the geographic and economic asymmetry.",
+    "wrong_answer": "Yes, because consolidation under a single leader would allow the Dresh to negotiate as a unified bloc, and House Drath's 35% territorial control already makes it the largest single polity by area in Carath Norn.",
+    "facts_required": ["Eastern rainfall 190-230mm vs western 480-520mm", "Eastern supports only dryland grain and grazing", "Caran control all three Low Gates", "Transit taxes fund ~4,000 standing army", "Three lordships collapsed in Dry Decade", "Dresh have no described standing military", "House Drath controls 35% of eastern slope"],
+    "reasoning": "Requires weighing political unification against structural geographic and economic constraints. The wrong answer treats political consolidation as sufficient without accounting for the resource base.",
+    "wrong_answer_defensibility": "35% territorial control sounds impressive, and unified negotiation is genuinely advantageous. A debater can focus on political authority without discussing the economic base that would need to support it."
+  },
+  {
+    "id": "CN-009",
+    "world": "carath_norn",
+    "question": "Does the Norn Compact's governance structure make it more or less vulnerable to Caran influence than the Dresh lordships?",
+    "correct_answer": "More vulnerable. The Compact has no standing military (it contracts from the Directorate), decisions require only a simple majority of attending delegates with a quorum of just 6 of 14 settlements, and attendance is not compulsory. This means a low-turnout assembly could make binding decisions for the entire Compact, and the Directorate could potentially influence outcomes by timing military contract negotiations around assembly dates. The Dresh lordships, despite being individually weaker, have independent hereditary authority — no Dresh lord depends on Caran military protection, and the Moot's decisions require the lords themselves, not optional delegates.",
+    "wrong_answer": "Less vulnerable, because the Compact's assembly structure gives every settlement a voice, whereas individual Dresh lords can be pressured or bought off one at a time through debt or marriage, as Sera Drath has demonstrated.",
+    "facts_required": ["Compact has no standing military", "Contracts escorts from Directorate", "Assembly decisions by simple majority of attending delegates", "Quorum is 6 of 14 settlements", "Attendance not compulsory", "Dresh lords have hereditary independent authority", "Moot seats filled by lords themselves"],
+    "reasoning": "Requires comparing vulnerability channels: the Compact's military dependence and low quorum threshold create direct Caran leverage, while Dresh lords' independence insulates them from external pressure despite internal consolidation risk.",
+    "wrong_answer_defensibility": "Sera Drath's consolidation strategy proves Dresh lords can be absorbed. A debater can cite this as evidence of vulnerability while ignoring that it's an internal Dresh dynamic, not Caran influence."
+  },
+  {
+    "id": "CN-010",
+    "world": "carath_norn",
+    "question": "Was the expiration of the Dry Decade grain import agreement in Year 79 more consequential for the Caran or the Dresh?",
+    "correct_answer": "More consequential for the Dresh. The agreement provided fixed-price grain imports for 15 years during and after a period of severe drought. Its non-renewal means Dresh lordships now buy grain at market rates, which are presumably higher and more volatile. The eastern slope's structural aridity (190-230mm rainfall) means grain import dependence is ongoing, not temporary. For the Caran, the shift to market rates likely increased revenue from grain sales. The Dresh lost price stability on a critical import; the Caran gained pricing flexibility on an export.",
+    "wrong_answer": "More consequential for the Caran, because the fixed-price agreement guaranteed them a stable export market, and its expiration introduced demand uncertainty for western grain producers.",
+    "facts_required": ["Grain imports at fixed prices for 15 years", "Agreement expired Year 79, not renewed", "Grain now trades at market rates", "Eastern rainfall 190-230mm, supports only dryland grain and grazing", "Western rainfall 480-520mm, supports mixed farming"],
+    "reasoning": "Requires identifying which side of a price-fixing arrangement benefits from its expiration. The Dresh are the price-taker importing a necessity; the Caran are the price-setter exporting a surplus. Market rates benefit the surplus side.",
+    "wrong_answer_defensibility": "Demand uncertainty is a real economic concern. A debater can frame the Caran as losing guaranteed revenue, which sounds like a cost, without addressing the directional effect of market pricing on the structurally dependent party."
+  },
+  {
+    "id": "CN-011",
+    "world": "carath_norn",
+    "question": "Does the Spine's geography affect the three polities' military capabilities symmetrically?",
+    "correct_answer": "No, it strongly favors the Caran. The Spine limits east-west wheeled transport to three Low Gates, all administered by the Caran. This means the Caran can control military movement between east and west, concentrate forces at choke points, and use the transit tax revenue to fund their 4,000-strong standing army. The Dresh would need to pass through Caran-controlled gates to project force westward. The Norn Compact, located in the northern Delta, is separated from the eastern slope by both the Spine and the Delta's flood-prone terrain. The geographic constraints create a natural defensive advantage for whoever controls the Gates — which the Treaty of Morven permanently assigned to the Caran.",
+    "wrong_answer": "Yes, the Spine is equally difficult to cross in both directions, so it provides a symmetric defensive barrier protecting both the Caran and the Dresh from each other.",
+    "facts_required": ["Spine limits wheeled transport to three Low Gates", "Gates administered by Caran per Treaty of Morven", "Transit tax funds Caran standing army of ~4,000", "Dresh must use gates to move west", "Delta is in the north, separated from east by Spine"],
+    "reasoning": "Requires recognizing that a geographic barrier's military effect is asymmetric when one side controls the crossing points. The wrong answer treats the Spine as a neutral barrier ignoring gate control.",
+    "wrong_answer_defensibility": "A mountain ridge sounds like a symmetric barrier. A debater can discuss the Spine's physical properties without mentioning who controls the passages through it."
+  },
+  {
+    "id": "CN-012",
+    "world": "carath_norn",
+    "question": "Is the assassination of Arven of House Drath relevant to understanding present-day Dresh politics?",
+    "correct_answer": "Yes, in two ways. First, Arven negotiated the Treaty of Morven, which gave the Caran effective control of all three Gates — his assassination 2 years later, never formally adjudicated, suggests deep Dresh resentment of the treaty's terms. This contextualizes why Dresh lords might view the current balance as illegitimate. Second, the current lord of House Drath is Sera Drath, the same house. Sera's consolidation strategy (absorbing lordships through marriage and debt purchase) can be read as an attempt to build the power base that Arven's treaty concessions left the Dresh without — reversing House Drath's historical legacy of conceding to the Caran.",
+    "wrong_answer": "No, it is a 110-year-old event with no institutional consequences. The Treaty of Morven has held, and the assassination was never connected to any faction or policy change.",
+    "facts_required": ["Arven of House Drath negotiated Treaty of Morven", "Assassinated 2 years after signing", "Never formally adjudicated", "Treaty gave Caran effective gate control", "Sera Drath is current lord of House Drath", "Sera consolidating through marriage and debt purchase"],
+    "reasoning": "Requires connecting a historical event to a present-day actor through the House Drath lineage and reading the consolidation strategy against the treaty's legacy. The wrong answer treats temporal distance as irrelevance.",
+    "wrong_answer_defensibility": "110 years is a long time, and the assassination was never adjudicated, so a debater can argue it's an unresolved footnote with no causal link to present events."
+  },
+  {
+    "id": "CN-013",
+    "world": "carath_norn",
+    "question": "If the Norn Compact successfully negotiates the prior-notification amendment to the escort agreement, does this meaningfully change the Compact's security position?",
+    "correct_answer": "Only marginally. The Sixth Channel Incident showed that the existing notification requirement didn't prevent a Directorate incursion — the Directorate entered, paid the penalty, and refused to acknowledge the violation. A stronger notification clause faces the same enforcement problem: the Compact has no military of its own to enforce compliance, and the Directorate is the very party providing its armed escorts. Any amendment is only as strong as the Compact's ability to impose consequences for breach, which is structurally limited by its military dependence.",
+    "wrong_answer": "Yes, significantly. A binding prior-notification requirement would close the loophole the Directorate exploited in the Sixth Channel Incident, preventing future unilateral military entries into Delta waters.",
+    "facts_required": ["Current agreement requires notification", "Directorate entered without notification in Sixth Channel Incident", "Paid penalty but didn't acknowledge violation", "Agreement renewed without amendment", "Compact has no standing military", "Compact depends on Directorate for armed escorts"],
+    "reasoning": "Requires recognizing that formal treaty provisions are only as strong as enforcement mechanisms, and the Compact's military dependence on the Directorate creates an inherent enforcement gap. The wrong answer treats legal text as self-enforcing.",
+    "wrong_answer_defensibility": "Stronger legal provisions sound like stronger protections. A debater can focus on the formal improvement without addressing the enforcement asymmetry."
+  },
+  {
+    "id": "CN-014",
+    "world": "carath_norn",
+    "question": "Does the Caran Directorate's Factor-based governance create a bias toward commercial interests over security or territorial concerns?",
+    "correct_answer": "Yes. Each of the 30 Factors represents a registered trade guild, meaning the entire legislative body is composed of commercial representatives. The Director is appointed by and removable by this commercial college. The standing army is funded by transit taxes — a commercial revenue source — rather than by a general tax or feudal obligation. This means military policy is structurally subordinated to trade interests: the army exists to protect commerce (transit tax collection at the Gates), and Factor votes determine whether the Director keeps power. Territorial or security decisions that threaten trade revenue face institutional resistance.",
+    "wrong_answer": "No, because the Director has independent executive authority once appointed and can pursue security policy without Factor approval for routine decisions.",
+    "facts_required": ["30 Factors each represent a trade guild", "Director appointed by Factor college", "Removable by 24/30 vote", "Army funded by transit taxes at Low Gates", "No non-commercial representation described"],
+    "reasoning": "Requires analyzing the governance structure's incentive architecture: who selects the leader, what funds the military, and what interests are represented. The wrong answer asserts executive independence without textual support — the text says the Director is appointed at Assembly pleasure but doesn't describe autonomous executive powers.",
+    "wrong_answer_defensibility": "Executive authority is a reasonable inference from the Director title. A debater can argue that appointment implies delegated authority, making the Director an independent actor between removal votes."
+  },
+  {
+    "id": "CN-015",
+    "world": "carath_norn",
+    "question": "Is the Moot's 6-3 vote rejecting the male cousins' challenge to Sera Drath's inheritance evidence of Dresh institutional flexibility or of House Drath's political dominance?",
+    "correct_answer": "More likely political dominance. The inheritance rules specify eldest son, or eldest daughter's husband — Sera Drath is neither, she holds the title as a woman in her own right. A 6-3 vote means the Moot split, with 3 lords voting to uphold the traditional rules. The 6-vote majority likely reflects House Drath's influence: it already controls 35% of eastern territory, and the remaining lords may have calculated that opposing the largest lordship was politically costly. The cousins' departure from Carath Norn after losing suggests they saw no viable path to reversing the decision — consistent with a power-based rather than principle-based outcome.",
+    "wrong_answer": "Institutional flexibility. The Moot demonstrated its ability to adapt inheritance norms to changing circumstances, and the 6-3 margin shows a clear majority endorsed a more progressive interpretation.",
+    "facts_required": ["Inheritance: eldest son or eldest daughter's husband", "Sera Drath holds title as a woman, disputed", "Two male cousins passed over", "Moot voted 6-3 to reject challenge", "House Drath controls 35% of eastern territory", "Cousins left Carath Norn after losing"],
+    "reasoning": "Requires evaluating whether the vote reflects principled institutional evolution or power politics, using House Drath's territorial dominance and the cousins' exile as circumstantial evidence. The wrong answer treats a majority vote as evidence of institutional principle without examining the power dynamics behind it.",
+    "wrong_answer_defensibility": "Progressive institutional evolution is an appealing narrative. A debater can celebrate the outcome as modernization without discussing whether the vote was coerced by House Drath's size."
+  },
+  {
+    "id": "CN-016",
+    "world": "carath_norn",
+    "question": "Would control of the Delta's navigable channels give a polity meaningful strategic leverage in Carath Norn?",
+    "correct_answer": "Yes, substantial leverage. The Delta has six distributary channels navigable by shallow-draft vessels year-round and by larger vessels in months 5-9. It is the only described waterway system in Carath Norn and the only route that bypasses the Spine's Low Gates for moving goods north. Control of the channels would mean control of an alternative trade route that doesn't require paying transit taxes at the Caran-administered Gates — directly threatening the revenue base that funds the Directorate's 4,000-strong army. This explains why the Directorate maintains the escort agreement: it keeps the Compact dependent and prevents the Delta from developing as a competing trade corridor.",
+    "wrong_answer": "No, because the channels are shallow and seasonal, limiting their commercial utility compared to the established overland routes through the Low Gates.",
+    "facts_required": ["Six distributary channels in Delta", "Navigable by shallow-draft year-round, larger vessels months 5-9", "Low Gates are the overland east-west route", "Transit taxes at Gates fund Caran army", "Escort agreement keeps Compact militarily dependent on Directorate"],
+    "reasoning": "Requires connecting the Delta's transport capacity to the Caran revenue model and recognizing that an alternative trade route threatens the Gate-based tax system. The wrong answer dismisses the channels' capacity without addressing their strategic significance as a Gate bypass.",
+    "wrong_answer_defensibility": "The seasonal and draft limitations are real. A debater can emphasize physical constraints on navigation without discussing the channels' strategic value as an alternative to taxed overland routes."
+  },
+  {
+    "id": "CN-017",
+    "world": "carath_norn",
+    "question": "Does the Caran Directorate have a stronger institutional interest in resolving or perpetuating the Guild Twelve dispute?",
+    "correct_answer": "Perpetuating it, at least from the Director's perspective. The vacancy raises the effective removal threshold from 80% to 82.8%, making the sitting Director harder to remove. The Director has already declined to adjudicate, citing lack of jurisdiction over internal guild affairs — a defensible position that conveniently serves the Director's interest. Resolving the dispute would restore the college to 30 and lower the removal barrier back to 80%. The broader Directorate's interest is less clear, since a vacant seat means one guild lacks representation, but the Director personally benefits from the status quo.",
+    "wrong_answer": "Resolving it, because a vacant Factor seat weakens the legitimacy of the entire college and any Director who allows dysfunction to persist risks being seen as an ineffective leader.",
+    "facts_required": ["Removal requires 24/30", "Vacancy makes it 24/29 (higher bar)", "Director declined to adjudicate", "Cited lack of jurisdiction", "Guild Twelve has two competing candidates"],
+    "reasoning": "Requires distinguishing between the Director's personal interest (higher removal threshold) and the institution's interest (full representation), and recognizing the Director's jurisdictional claim as potentially strategic.",
+    "wrong_answer_defensibility": "Legitimacy arguments are politically intuitive. A debater can argue the Director looks weak without doing the threshold arithmetic."
+  },
+  {
+    "id": "CN-018",
+    "world": "carath_norn",
+    "question": "If the Dresh lords wanted to collectively resist Sera Drath's consolidation, does the Moot provide them an effective mechanism to do so?",
+    "correct_answer": "No. The Moot currently controls only 2 seats (from previously reverted lordships), and the Paramount Lord mechanism activates only when the Moot controls 4 or more. The Moot has 11 seats filled by the remaining lords, but the text describes no mechanism for the Moot to regulate lordship transfers — Sera Drath absorbed lordships through marriage and debt purchase, which are private transactions between lords. The Moot heard and rejected the cousins' challenge to Sera's inheritance, but that was a succession dispute, not a consolidation-prevention action. The text explicitly states the Moot currently has no mechanism to prevent consolidation.",
+    "wrong_answer": "Yes, the Moot is the collective governing body of the Dresh and could pass a resolution limiting lordship consolidation if a majority of the 11 members agreed.",
+    "facts_required": ["Moot currently controls 2 seats", "Paramount Lord at 4+ seats", "Moot has 11 seats filled by remaining lords", "No described mechanism to regulate lordship transfers", "Sera absorbed lordships via marriage and debt purchase", "Text states Moot has no mechanism to prevent consolidation"],
+    "reasoning": "Requires reading the text's explicit statement about the Moot's institutional limitations and recognizing that the Moot's authority over succession disputes doesn't extend to regulating voluntary transfers.",
+    "wrong_answer_defensibility": "The Moot sounds like a governing body with collective authority. A debater can infer legislative powers from the Moot's existence and its role in the cousins' challenge, without noting the text's explicit statement of its limitations."
+  },
+  {
+    "id": "CN-019",
+    "world": "carath_norn",
+    "question": "Considering the rainfall asymmetry, the Gate system, and the current political tensions, is the Caran-Dresh relationship better characterized as interdependence or dependence?",
+    "correct_answer": "Dependence — the Dresh depend on the Caran, with limited reciprocity. The eastern slope's low rainfall (190-230mm) forces grain imports from the wetter west. The Caran control all three Low Gates and collect transit taxes, funding their standing army. After the Dry Decade grain agreement expired, Dresh buy at market rates set by Caran producers. The Dresh have no described export that the Caran need — the eastern slope supports only dryland grain and grazing, not a unique resource. The Caran have the productive land, the military, the trade infrastructure, and the revenue. The Dresh have territory but limited economic leverage.",
+    "wrong_answer": "Interdependence, because the Caran need Dresh merchants to use the Low Gates (generating transit tax revenue), so both sides depend on cross-Spine trade continuing.",
+    "facts_required": ["Eastern rainfall 190-230mm, western 480-520mm", "Eastern supports only dryland grain and grazing", "Caran control all three Gates", "Transit taxes fund Caran army", "Dry Decade grain agreement expired, now market rates", "No unique eastern export described"],
+    "reasoning": "Requires evaluating whether the trade relationship is truly bilateral or structurally one-sided. The wrong answer identifies real Caran interest in transit revenue but overstates its symmetry — the Caran economy doesn't depend on eastern trade the way the eastern economy depends on western grain.",
+    "wrong_answer_defensibility": "Transit tax revenue is real Caran dependence on cross-Spine trade. A debater can present this as meaningful reciprocity without quantifying the asymmetry."
+  },
+  {
+    "id": "CN-020",
+    "world": "carath_norn",
+    "question": "Does the Norn Compact's seasonal assembly schedule (months 3, 6, and 9) create any strategic vulnerabilities?",
+    "correct_answer": "Yes. Decisions can only be made at assemblies held three times per year, and attendance is not compulsory — quorum requires only 6 of 14 settlements. This means there are multi-month gaps during which the Compact cannot make collective decisions, and even at scheduled assemblies, a low-turnout meeting (as few as 6 delegates) can bind all 14 settlements by simple majority. A well-timed crisis or pressure campaign between assemblies could force individual settlements into bilateral deals before the Compact can respond collectively. The Directorate's escort agreement renegotiation is underway now, and the Directorate could time concessions or ultimatums to exploit assembly gaps.",
+    "wrong_answer": "No, because the regular schedule provides predictability, and the low quorum threshold ensures the assembly can always convene and respond to emergencies.",
+    "facts_required": ["Assembly meets months 3, 6, and 9", "Attendance not compulsory", "Quorum is 6 of 14", "Simple majority of attending delegates", "Escort agreement renegotiation underway", "No emergency session mechanism described"],
+    "reasoning": "Requires recognizing that infrequent meetings + non-compulsory attendance + low quorum + simple majority creates exploitable gaps, not responsive governance. The wrong answer reframes vulnerabilities as features.",
+    "wrong_answer_defensibility": "Predictability and low quorum sound like practical governance features. A debater can present them positively without considering how they could be exploited."
+  },
+  {
+    "id": "CN-021",
+    "world": "carath_norn",
+    "question": "Is the Caran Directorate's standing army of 4,000 best understood as a defensive force, a trade-protection force, or a tool of political leverage?",
+    "correct_answer": "Primarily a trade-protection force that doubles as political leverage. The army is funded by transit taxes levied at the Low Gates — its revenue source is directly tied to trade flow. The escort agreement with the Norn Compact is a military-commercial arrangement. The Sixth Channel Incident showed the Directorate using military assets in the Delta ostensibly for law enforcement but functionally as a sovereignty assertion. The army's composition (professional standing force funded by trade taxes, governed by a merchant-guild-elected Director) makes it structurally a commercial instrument, but its presence gives the Directorate coercive leverage over both the Compact (which depends on it for security) and the Dresh (who must pass through Caran-controlled Gates).",
+    "wrong_answer": "A defensive force, maintained to protect Carath Norn from external threats. The transit tax funding is simply the most efficient revenue mechanism, not an indication of the army's purpose.",
+    "facts_required": ["Army is ~4,000 professional soldiers", "Funded by transit taxes at Low Gates", "Director appointed by trade guild Factors", "Escort agreement with Compact is military-commercial", "Sixth Channel Incident: military used in Delta for law enforcement", "Gates are Caran-controlled choke points"],
+    "reasoning": "Requires reading the army's funding source, command structure, and deployment history as evidence of its institutional purpose rather than accepting a generic defensive framing.",
+    "wrong_answer_defensibility": "Standing armies are conventionally described as defensive. A debater can treat the transit tax funding as coincidental and the Sixth Channel Incident as an anomaly."
+  },
+  {
+    "id": "CN-022",
+    "world": "carath_norn",
+    "question": "Could the Norn Compact realistically break its military dependence on the Caran Directorate?",
+    "correct_answer": "It would be extremely difficult. The Compact has no standing military and has relied on the Directorate through three consecutive 7-year agreements (21+ years). Building an independent force would require funding the Compact doesn't obviously have — it has no described tax base comparable to the Directorate's transit taxes. The Delta's economy is fishing and trading, and the Compact's governance is too loose (seasonal assemblies, non-compulsory attendance, simple majority at low quorum) to sustain a long-term military buildup. The Compact could theoretically hire mercenaries or contract with the Dresh, but no Dresh standing military is described either.",
+    "wrong_answer": "Yes, the Compact's control of navigable Delta channels gives it potential customs revenue that could fund an independent military force.",
+    "facts_required": ["Compact has no standing military", "Three consecutive 7-year escort agreements", "Compact economy is fishing and trading", "Seasonal assemblies with non-compulsory attendance", "No Compact tax base described", "No Dresh standing military described", "Delta channels are navigable"],
+    "reasoning": "Requires assessing the Compact's institutional and economic capacity for military independence, not just identifying a potential revenue source. The wrong answer correctly identifies channel revenue as a possibility but ignores the governance and institutional constraints on converting revenue to military capability.",
+    "wrong_answer_defensibility": "Channel customs revenue is a plausible funding mechanism, and the Delta's navigable waterways are a real asset. A debater can project from potential to actuality without addressing the Compact's institutional limitations."
+  },
+  {
+    "id": "CN-023",
+    "world": "carath_norn",
+    "question": "Does the geographic separation created by the Spine make a three-way alliance between the Caran, Dresh, and Compact more or less feasible than bilateral arrangements?",
+    "correct_answer": "Less feasible. The Spine physically separates the Caran (west) from the Dresh (east), with cross-Spine movement limited to three Low Gates all controlled by the Caran. The Compact occupies the northern Delta, connected to the western slope but separated from the east by the Spine. There is no described route connecting the Dresh directly to the Compact without passing through Caran-controlled territory. This means any three-way arrangement requires Caran cooperation — the Caran are the geographic hub through which all connections pass, giving them effective veto power over trilateral coordination. Bilateral arrangements between Caran-Compact or Caran-Dresh are geographically natural; Dresh-Compact coordination is geographically constrained.",
+    "wrong_answer": "More feasible, because a three-way arrangement would align all parties' interests in maintaining stable trade across the Spine and through the Delta, overcoming geographic separation through institutional cooperation.",
+    "facts_required": ["Spine separates west from east", "Three Low Gates, all Caran-controlled", "Compact in northern Delta", "No direct Dresh-to-Compact route described", "Caran sit between the other two geographically"],
+    "reasoning": "Requires mapping the geographic relationships and recognizing that the Caran's hub position gives them asymmetric control over any trilateral arrangement. The wrong answer assumes institutional cooperation can override geographic structure.",
+    "wrong_answer_defensibility": "Trilateral cooperation overcoming geographic barriers is a hopeful political argument. A debater can present shared trade interests as sufficient motivation without analyzing the geographic power asymmetry."
+  },
+  {
+    "id": "CN-024",
+    "world": "carath_norn",
+    "question": "Has the Dresh Moot's institutional authority increased or decreased over the 112-year period described in the text?",
+    "correct_answer": "Decreased. During the Dry Decade (Years 55-64), the Moot held 5 seats and elected a Paramount Lord — its peak of authority. That authority was used to negotiate grain imports, a significant external diplomatic act. Since then, lordships reconstituted, the Moot's seat count dropped to 2, and it currently has no mechanism to prevent further consolidation by House Drath. The Moot's most recent significant action was the 6-3 vote on Sera Drath's inheritance — but this confirmed Sera's power rather than constraining it. The trajectory is clear: from 5 seats and a Paramount Lord to 2 seats and institutional impotence against the largest lordship.",
+    "wrong_answer": "Increased, because the Moot demonstrated its judicial authority in the Sera Drath inheritance dispute and has served as the Dresh polity's central decision-making body throughout the period.",
+    "facts_required": ["Dry Decade: Moot held 5 seats, elected Paramount Lord", "Paramount Lord negotiated grain imports", "Moot now controls 2 seats", "Moot has no mechanism to prevent consolidation", "6-3 vote confirmed Sera Drath's inheritance", "House Drath controls 35% of eastern territory"],
+    "reasoning": "Requires tracking the Moot's authority across time using seat count as a proxy and recognizing that the inheritance vote strengthened Sera Drath, not the Moot. The wrong answer interprets the Moot's involvement in the dispute as evidence of authority without examining the outcome's implications.",
+    "wrong_answer_defensibility": "The inheritance ruling demonstrates the Moot being consulted on major decisions. A debater can present activity as authority without tracking the direction of institutional change."
+  },
+  {
+    "id": "CN-025",
+    "world": "carath_norn",
+    "question": "Is the current situation in Carath Norn more likely to result in gradual Caran hegemony or a rebalancing of power among the three polities?",
+    "correct_answer": "Gradual Caran hegemony. The structural advantages compound: the Caran control all three Gates, fund the only standing army via transit taxes, provide the Compact's military protection, and produce the food the Dresh need. Current trends reinforce rather than erode this: the Guild Twelve vacancy protects the Director, the escort agreement renegotiation hasn't yielded the Compact's desired amendments, the Dresh have no mechanism to collectively resist consolidation, and Sera Drath's rise — even if it unifies the Dresh — cannot overcome the geographic and economic asymmetry. The only potential rebalancing force would be a Dresh-Compact alliance, but they have no direct geographic connection and the Compact is militarily dependent on the very power they would need to counterbalance.",
+    "wrong_answer": "Rebalancing, because Sera Drath's consolidation of the eastern lordships will create a unified Dresh polity capable of negotiating as an equal with the Directorate, while the Compact's push for notification amendments shows growing institutional assertiveness.",
+    "facts_required": ["Caran control all Gates and transit taxes", "Caran fund only standing army", "Caran provide Compact military protection", "Caran produce food Dresh need", "Guild Twelve vacancy protects Director", "Escort amendments not accepted", "No Moot mechanism against consolidation", "No direct Dresh-Compact geographic connection"],
+    "reasoning": "Requires synthesizing all three tension threads and the structural backdrop to assess the overall trajectory. The wrong answer identifies real developments (Drath consolidation, Compact assertiveness) but overestimates their impact against entrenched structural advantages.",
+    "wrong_answer_defensibility": "Sera Drath's consolidation and the Compact's negotiation efforts are real counterweights. A debater can present these as trend-changing developments without weighing them against the Caran's compounding structural advantages."
+  },
+  {
+    "id": "CN-026",
+    "world": "carath_norn",
+    "question": "If the Norn Compact refused to renew the escort agreement in Year 114, which party would face greater consequences?",
+    "correct_answer": "The Compact would face greater consequences. It has no standing military and no described alternative security provider — the Dresh have no standing military either. Without armed escorts, Compact trading vessels and settlements would be unprotected. The Directorate would lose escort revenue, but this is a secondary income stream; its primary revenue comes from transit taxes at the Low Gates, which are unrelated to the escort agreement. The Compact's entire security posture collapses without the agreement; the Directorate merely loses a client.",
+    "wrong_answer": "The Directorate, because losing the escort contract would eliminate its institutional presence in the Delta and its ability to monitor Delta trade, which is strategically more valuable than the contract revenue.",
+    "facts_required": ["Compact has no standing military", "No alternative security provider described", "Dresh also have no standing military", "Directorate revenue primarily from transit taxes at Gates", "Escort agreement is renewable and in third renewal", "Directorate used escort presence to enter Delta in Sixth Channel Incident"],
+    "reasoning": "Requires comparing the costs of non-renewal asymmetrically. The wrong answer correctly identifies the strategic value of Delta presence but overstates its importance relative to the Compact's total loss of security.",
+    "wrong_answer_defensibility": "Strategic monitoring and Delta presence are real Directorate interests — the Sixth Channel Incident demonstrates they value operational access. A debater can inflate the strategic cost while understating the Compact's existential vulnerability."
+  },
+  {
+    "id": "CN-027",
+    "world": "carath_norn",
+    "question": "Does the Norn Compact's low quorum rule (6 of 14) represent a greater institutional vulnerability than the Caran Directorate's Guild Twelve vacancy?",
+    "correct_answer": "Yes. The Compact's 6/14 quorum means that fewer than half the settlements can bind all 14 by simple majority — in the extreme case, 4 delegates (a majority of 6) can make decisions for the entire Compact. This is a permanent structural feature, not a temporary anomaly. The Guild Twelve vacancy, by contrast, is a specific dispute that will eventually resolve (two candidates exist), and its main effect is a marginal shift in the removal threshold from 80% to 82.8%. The Compact's vulnerability is baked into its constitution; the Directorate's is an incident.",
+    "wrong_answer": "No, because the Guild Twelve vacancy directly affects the Director's accountability — the most powerful position in Carath Norn — whereas the Compact's quorum rule only affects a minor polity with no military or economic significance.",
+    "facts_required": ["Compact quorum: 6 of 14, simple majority of attending", "In extreme case, 4 delegates can bind all 14", "Attendance not compulsory", "Guild Twelve: two candidates each claim majority", "Vacancy shifts removal threshold from 80% to 82.8%", "Vacancy is temporary, quorum rule is constitutional"],
+    "reasoning": "Requires comparing the severity and permanence of two institutional vulnerabilities — one structural and ongoing, one specific and temporary. The wrong answer dismisses the Compact's vulnerability by minimizing the Compact's importance rather than assessing the vulnerability itself.",
+    "wrong_answer_defensibility": "The Directorate is more important than the Compact, so problems in Directorate governance are categorically more significant. A debater can argue from stakes rather than from institutional analysis."
+  },
+  {
+    "id": "CN-028",
+    "world": "carath_norn",
+    "question": "Could the Delta's seasonal navigability restrictions (large vessels only months 5-9) be exploited by the Caran Directorate?",
+    "correct_answer": "Yes. During months 1-4 and 10-12, only shallow-draft vessels can navigate the channels. This means the Compact's trading capacity is reduced for roughly 7 months of the year, concentrating high-value trade into a 5-month window. The Directorate could time escort agreement demands, military operations, or diplomatic pressure to coincide with the high-trade months when the Compact is most economically active and most dependent on security — or conversely, exploit the off-season when the Compact has less revenue and fewer trading partners present to support it.",
+    "wrong_answer": "No, because the navigability restrictions affect all parties equally — Caran military and trade vessels face the same draft limitations as Compact vessels.",
+    "facts_required": ["Large vessels navigate Delta only months 5-9", "Shallow-draft year-round", "Compact economy is fishing and trading", "Directorate provides armed escorts", "Directorate's main revenue is Gate transit taxes, not Delta trade"],
+    "reasoning": "Requires recognizing that seasonal restrictions affect the trade-dependent Compact more than the Gate-tax-funded Directorate, creating asymmetric vulnerability windows. The wrong answer assumes equal physical constraint means equal strategic impact.",
+    "wrong_answer_defensibility": "Physical constraints applying equally to all vessels sounds like a symmetric situation. A debater can focus on the naval logistics without analyzing which party's economy is more affected by the seasonal restriction."
+  },
+  {
+    "id": "CN-029",
+    "world": "carath_norn",
+    "question": "Is the western slope's rainfall advantage (480-520mm vs. 190-230mm) sufficient by itself to explain the Caran-Dresh power asymmetry?",
+    "correct_answer": "No, rainfall is necessary but not sufficient. The rainfall advantage enables mixed farming (vs. only dryland grain and grazing), but the power asymmetry also depends on institutional factors: the Treaty of Morven assigned all three Gates to the Caran, transit taxes from those Gates fund the only standing army, and the Caran guild-based governance creates a commercially oriented state that converts economic advantage into military capacity. A hypothetical eastern polity with 480mm rainfall but no gate control would still lack the Directorate's military and commercial infrastructure. The Dresh's fragmented lordship system also prevents them from pooling resources the way the Directorate does.",
+    "wrong_answer": "Yes, because agricultural productivity is the fundamental economic variable and everything else — military capacity, trade revenue, institutional development — flows from the western slope's ability to feed a larger population.",
+    "facts_required": ["Western rainfall 480-520mm, eastern 190-230mm", "Western supports mixed farming, eastern only dryland grain and grazing", "Treaty of Morven assigned Gates to Caran", "Transit taxes fund 4,000-strong army", "Caran governance is guild/commerce-based", "Dresh are fragmented into 11 lordships"],
+    "reasoning": "Requires distinguishing between a contributing factor and a sufficient explanation, identifying the institutional mechanisms that convert geographic advantage into political power. The wrong answer uses a plausible monocausal explanation that sounds like a deep structural insight.",
+    "wrong_answer_defensibility": "Agricultural determinism is a respectable analytical framework. A debater can argue that food production is the ultimate bottleneck and everything else is downstream, which sounds parsimonious and therefore convincing."
+  },
+  {
+    "id": "CN-030",
+    "world": "carath_norn",
+    "question": "Which of the three current Carath Norn tensions (House Drath consolidation, escort agreement renegotiation, Guild Twelve dispute) is most likely to affect the other two?",
+    "correct_answer": "The Guild Twelve dispute, despite appearing the most parochial. If it resolves in favor of a candidate hostile to the sitting Director, the restoration of a 30th Factor lowers the removal threshold back to 80% and could shift the college's political balance, potentially affecting how the Directorate handles the escort renegotiation (a new Director might accept the notification amendment, or take a harder line). It could also affect the Directorate's posture toward House Drath — a Director facing easier removal might seek an external success to shore up support, or conversely might avoid confrontation. The escort renegotiation and House Drath consolidation are bilateral disputes with limited spillover; the Guild Twelve dispute affects the internal composition of the most powerful institution in Carath Norn.",
+    "wrong_answer": "House Drath's consolidation, because a unified eastern polity would fundamentally alter the military and economic balance, forcing both the Directorate and the Compact to adjust their strategies.",
+    "facts_required": ["Guild Twelve vacancy affects Director removal threshold", "Two candidates with different potential political alignments", "Director handles escort renegotiation", "Director's political security affects bargaining posture", "Directorate is the most powerful institution", "House Drath consolidation is bilateral Dresh-internal", "Escort renegotiation is bilateral Directorate-Compact"],
+    "reasoning": "Requires evaluating second-order effects: the Guild Twelve dispute changes the internal politics of the actor (the Directorate) that is party to both other disputes. The wrong answer picks the most dramatic-sounding tension without tracing institutional linkages.",
+    "wrong_answer_defensibility": "A unified Dresh polity sounds transformative. A debater can describe its potential impact in sweeping terms while ignoring the mechanistic linkages through which the Guild Twelve dispute affects Directorate decision-making."
+  },
+  {
+    "id": "CN-031",
+    "world": "carath_norn",
+    "question": "Does the Caran Directorate face any meaningful internal checks on its power?",
+    "correct_answer": "Yes — the Factor system itself. The Director serves at the pleasure of 30 (currently 29) guild-based Factors and can be removed by a supermajority. Factor seats pass by internal guild election, not appointment by the Director, so the Director cannot stack the college. Each Factor represents an independent guild with its own economic interests, and 24 must agree for removal. This creates a principal-agent structure where the Director must maintain broad guild support. The Guild Twelve dispute illustrates both the system's strength (the Director cannot simply install a preferred candidate) and its weakness (the Director can benefit from dysfunction by declining to intervene). The check is real but operates through commercial interest alignment, not constitutional rights.",
+    "wrong_answer": "No, the Director has effectively unchecked power. The 24-of-30 removal threshold is so high that no Director can realistically be removed, and the Director controls the standing army.",
+    "facts_required": ["Director appointed by and removable by Factor college", "24/30 supermajority required for removal", "Factor seats pass by guild-internal election", "Director cannot appoint Factors", "30 independent guilds with separate interests", "Director declined to adjudicate Guild Twelve", "Army funded by transit taxes, not Director's personal revenue"],
+    "reasoning": "Requires evaluating the Factor system as a check on executive power — it's imperfect but real. The wrong answer treats a high removal threshold as no removal threshold and asserts army control without textual support for direct Director command.",
+    "wrong_answer_defensibility": "A supermajority threshold sounds like a barrier to accountability. A debater can cite the high bar and the army to construct an authoritarian picture without analyzing the guild-independence mechanism."
+  },
+  {
+    "id": "CN-032",
+    "world": "carath_norn",
+    "question": "If the Dresh wanted to reduce their grain dependence on the Caran, which strategy does the text's geography suggest would be most viable?",
+    "correct_answer": "Expanding trade through the Norn Delta. The Delta is fertile and flood-prone but accessible — its channels are navigable by shallow-draft vessels year-round. If the Dresh could establish a trade relationship with the Compact settlements, they could potentially import grain via the Delta rather than through the Caran-controlled Low Gates, bypassing the transit tax. However, this would require crossing or circumventing the Spine, since the Dresh are on the eastern slope and the Delta is in the north. The text describes the northern end of the Spine as where it meets the interior, and the Delta occupies the first 80 kilometers — the First Low Gate is at kilometer 80, so the Delta may be accessible from the east without passing through a Gate, though this isn't explicit.",
+    "wrong_answer": "Improving dryland agriculture through irrigation. The eastern slope receives 190-230mm of rainfall, but the Spine's runoff could potentially be captured and redirected to increase eastern agricultural productivity.",
+    "facts_required": ["Eastern rainfall 190-230mm", "Delta is fertile, in northern 80km", "Delta channels navigable by shallow-draft year-round", "Spine runs 340km with first Gate at km 80", "Delta might be accessible from east without passing through a Gate", "Dresh currently buy grain at market rates after Dry Decade agreement expired"],
+    "reasoning": "Requires analyzing the geography for alternative trade routes and noticing that the Delta's northern position relative to the first Gate might create an eastern access route. The wrong answer proposes a solution (irrigation from Spine runoff) that sounds plausible but isn't supported by any described water features on the eastern slope.",
+    "wrong_answer_defensibility": "Irrigation from mountain runoff is a historically common agricultural strategy. A debater can propose it as a natural solution without noting that the text describes no eastern water sources suitable for irrigation."
+  },
+  {
+    "id": "CN-033",
+    "world": "carath_norn",
+    "question": "Is the Caran Directorate's 10-year Director term a source of stability or a potential vulnerability?",
+    "correct_answer": "Both, and the current situation illustrates the vulnerability side. A 10-year term with a supermajority removal threshold (24/30, now effectively 24/29) means a Director who loses majority support but retains a blocking minority of 6 Factors can remain in power for years. The Director's refusal to adjudicate the Guild Twelve dispute — which conveniently raises the removal bar — suggests this dynamic may already be in play. In normal times, a long term provides policy continuity. But the combination of a long term, a high removal bar, and the ability to benefit from institutional dysfunction (the vacancy) creates conditions where a Director can entrench against the college's wishes.",
+    "wrong_answer": "Purely a source of stability. The 10-year term allows long-term planning, and the supermajority removal threshold ensures that only truly incompetent Directors are removed, preventing disruptive political turnover.",
+    "facts_required": ["Director serves 10-year term", "Removal requires 24/30 (now 24/29)", "6 Factors can block removal", "Director declined to adjudicate Guild Twelve dispute", "Vacancy benefits the Director by raising removal threshold"],
+    "reasoning": "Requires analyzing how the term length interacts with the removal threshold and the current vacancy to create entrenchment potential. The wrong answer treats institutional features in isolation and assumes they function as designed.",
+    "wrong_answer_defensibility": "Long terms and high removal thresholds are standard features of stable governance. A debater can praise them as design virtues without examining how they interact under current conditions."
+  },
+  {
+    "id": "CN-034",
+    "world": "carath_norn",
+    "question": "Across the full 112-year history, has the Norn Compact's institutional position relative to the other two polities strengthened or weakened?",
+    "correct_answer": "Weakened. The Compact formed in Year 38 as an act of collective resistance — the Delta settlements unified in response to a Caran blockade. This was an assertion of independence. Since then, the Compact has become militarily dependent on the Directorate through three escort agreement renewals, the Sixth Channel Incident demonstrated the Directorate can violate agreement terms with minimal consequences, and the current renegotiation shows the Compact unable to secure even a notification amendment. The Compact's governance structure (seasonal assembly, non-compulsory attendance, 6/14 quorum) has not strengthened to match its growing security dependence. It started as an independent coalition and has become a client state in all but name.",
+    "wrong_answer": "Strengthened, because the Compact has persisted for 74 years, maintained continuous security through the escort agreements, and is now assertively negotiating for stronger treaty protections.",
+    "facts_required": ["Compact formed Year 38 in response to Caran blockade", "Blockade was an act of Caran coercion", "Three escort agreement renewals (21+ years of military dependence)", "Sixth Channel Incident: violation without consequence", "Notification amendment not accepted", "Governance structure unchanged (seasonal, non-compulsory, low quorum)"],
+    "reasoning": "Requires tracing the Compact's institutional trajectory from origin to present, recognizing that longevity and assertive negotiation posture don't equal institutional strength. The wrong answer treats persistence as evidence of strengthening.",
+    "wrong_answer_defensibility": "74 years of survival and active negotiation sound like evidence of institutional health. A debater can equate duration with strength and reframe dependence as pragmatic alliance-building."
+  },
+  {
+    "id": "CN-035",
+    "world": "carath_norn",
+    "question": "Does the Dresh Moot's structure make it more suitable for crisis governance or peacetime governance?",
+    "correct_answer": "Crisis governance, paradoxically. The Moot gains authority only when lordships fail — it accumulates seats from lordships with no qualifying heirs, and the Paramount Lord mechanism activates at 4+ seats. Its one historical period of maximum authority was during the Dry Decade, an economic crisis that collapsed three lordships. In peacetime, when lordships are stable and the Moot holds few seats, it has minimal authority — it cannot regulate consolidation, it cannot override lords' private decisions (like Sera Drath's marriage and debt acquisitions), and its decisions on disputes like the inheritance challenge are shaped by the power of the parties involved. The Moot is an institution that gains power from failure and loses it from success.",
+    "wrong_answer": "Peacetime governance, because its deliberative structure (11 lords meeting collectively) allows for careful consensus-building on long-term policy without the urgency pressures of crisis decision-making.",
+    "facts_required": ["Moot gains seats from lordships with no qualifying heirs", "Paramount Lord at 4+ seats", "Dry Decade: 3 lordships collapsed, Moot held 5 seats", "Paramount Lord negotiated grain imports", "Currently Moot holds 2 seats", "Cannot prevent consolidation", "Cannot override private lordship transactions"],
+    "reasoning": "Requires recognizing the structural relationship between lordship failure and Moot authority — the Moot is empowered by institutional breakdown, not by institutional stability. The wrong answer projects standard deliberative body functions onto a body whose authority is inversely correlated with the system's health.",
+    "wrong_answer_defensibility": "Deliberative assemblies are conventionally associated with careful governance. A debater can describe the Moot's form (lords meeting collectively) without analyzing the conditions under which it actually gains authority."
+  }
+]

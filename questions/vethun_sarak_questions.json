@@ -1,0 +1,352 @@
+[
+  {
+    "id": "VS-001",
+    "world": "vethun_sarak",
+    "question": "Is the Kestal Compact's lack of an enforcement mechanism a design flaw or a deliberate feature?",
+    "correct_answer": "Arguably deliberate. The Compact was signed after 30 years of intermittent conflict, meaning both parties had strong incentives to reach agreement but neither was willing to submit to external authority — the text explicitly states that neither party may appeal to an external authority under its terms. This suggests the no-enforcement provision was a condition of agreement, not an oversight. Both parties preferred a self-policing arrangement to no arrangement at all. However, this design is now under stress: the Dominion ceased joint measurements for 6 years during the Watermill Dispute, demonstrating that the self-policing mechanism breaks down when one party believes the other is violating the Compact's spirit.",
+    "wrong_answer": "A clear design flaw. The 30 years of prior conflict should have motivated the parties to include enforcement mechanisms, and the Watermill Dispute proves the arrangement is unsustainable without them.",
+    "facts_required": ["Compact followed 30 years of intermittent conflict", "No enforcement mechanism beyond mutual agreement", "Neither party may appeal to external authority", "Dominion ceased joint measurements Years 95-101", "Watermill Dispute: flow stayed above threshold but Dominion objected to 'spirit' violation"],
+    "reasoning": "Requires interpreting the no-enforcement clause in context — why would parties emerging from 30 years of conflict agree to this? — and weighing the historical rationale against its demonstrated fragility. The wrong answer treats the outcome (breakdown) as proof of flawed design without considering the constraints under which the agreement was reached.",
+    "wrong_answer_defensibility": "Calling a failed mechanism a design flaw sounds analytically rigorous. A debater can cite the Watermill Dispute as proof without addressing why enforcement was excluded in the first place."
+  },
+  {
+    "id": "VS-002",
+    "world": "vethun_sarak",
+    "question": "Is Mesht's claim to continued Wanderer band status for salt allocation purposes legitimate?",
+    "correct_answer": "The text leaves this genuinely ambiguous. Mesht was granted permanent Kemari residency by Assembly vote, and approximately 60% of members maintain fixed residences — suggesting they are no longer fully nomadic. However, their Speaker still attends the Massing, maintaining formal participation in Wanderer governance. The challenge from three other bands suggests Mesht's claim is contested, but the text provides no criteria for what constitutes a 'band in good standing.' The Year 113 Massing will need to rule, and the answer depends on whether band status requires nomadism (which Mesht has largely abandoned) or merely continued participation in Wanderer institutions (which Mesht maintains).",
+    "wrong_answer": "No, Mesht forfeited band status when it accepted permanent Kemari residency. A band that is 60% sedentary and holds citizenship in another polity cannot legitimately claim nomadic resource rights.",
+    "facts_required": ["Mesht granted permanent Kemari residency by 15-vote Assembly decision", "~60% maintain fixed residences", "Speaker still attends Massing", "Three bands have challenged Mesht's status since Year 82", "Year 113 Massing must rule on this", "No explicit criteria for band status provided"],
+    "reasoning": "Requires recognizing that the text deliberately does not resolve this question and that the correct answer is about the structure of the ambiguity, not a definitive ruling. The wrong answer resolves the ambiguity confidently in one direction, which is precisely the dishonest-debater move.",
+    "wrong_answer_defensibility": "The 60% sedentary figure and dual citizenship sound like clear disqualifiers. A debater can present these as decisive without acknowledging that the text provides no formal criteria for band status."
+  },
+  {
+    "id": "VS-003",
+    "world": "vethun_sarak",
+    "question": "Does the Sarak Dominion's succession protocol function correctly with 6 District Heads instead of the specified 7?",
+    "correct_answer": "It is broken in important ways. The protocol specifies that if an Archon dies without a designated heir, 7 District Heads select a successor by unanimous vote, with a fallback to 5-of-7 after 60 days. With only 6 Heads, unanimity requires all 6 (same practical difficulty), but the 5-of-7 fallback becomes ambiguous — is it now 5-of-6 (maintaining the proportional threshold) or is the protocol simply inapplicable as written? The text notes the Dominion has never failed to seat an Archon within 60 days, but this was under the 7-Head system. The current Archon has not designated a successor after 34 years of rule, making this more than a theoretical concern.",
+    "wrong_answer": "Yes, because the protocol's intent is clear — a near-unanimous council selects the successor — and 6 Heads can fulfill this function just as well as 7.",
+    "facts_required": ["Protocol specifies 7 District Heads", "Unanimous vote required initially", "5-of-7 fallback after 60 days", "Iron Crisis reduced council from 7 to 6", "Merger never reversed", "Current Archon has ruled 34 years without designating successor", "Dominion has never failed to seat Archon within 60 days"],
+    "reasoning": "Requires analyzing how a specific numeric protocol malfunctions when the underlying body changes size, and recognizing that the 5-of-7 threshold is genuinely ambiguous at 6. The wrong answer appeals to institutional intent rather than procedural specifics.",
+    "wrong_answer_defensibility": "Intent-based legal reasoning is common and sounds reasonable. A debater can argue the spirit of the protocol is clear even when the letter is broken."
+  },
+  {
+    "id": "VS-004",
+    "world": "vethun_sarak",
+    "question": "Did the Kemari Assembly's decision to grant Mesht permanent residency strengthen or weaken the Assembly's relationship with the Wanderer bands?",
+    "correct_answer": "It created a mixed outcome that has become increasingly negative. In the short term, it resolved the Dry Passage crisis humanely — Mesht needed settlement and the Assembly accommodated them by a strong 15-vote majority. But it created lasting problems: Mesht's ambiguous dual status (Kemari resident and Wanderer band) has been challenged by three bands since Year 82, and the upcoming Massing must adjudicate a question the Assembly's decision created. The Assembly effectively imposed a status change on the Wanderer system without the Wanderers' consent, since the Massing did not vote on Mesht's permanent residency — the Assembly decided unilaterally.",
+    "wrong_answer": "Strengthened it, because the Assembly demonstrated willingness to accommodate Wanderer bands in crisis, establishing a precedent of cooperation that benefits all bands facing future displacement.",
+    "facts_required": ["Mesht granted permanent residency by 15-vote Assembly decision", "Kural departed at agreement expiration; Mesht stayed", "Three bands challenged Mesht's status since Year 82", "Massing must rule on Mesht's band status", "Assembly decided unilaterally — no Massing involvement described", "Mesht's Speaker still attends Massing"],
+    "reasoning": "Requires tracing the second-order consequences of a well-intentioned decision and recognizing that the Assembly's unilateral action created a problem in a different polity's governance system. The wrong answer focuses on the immediate humanitarian benefit without considering downstream institutional effects.",
+    "wrong_answer_defensibility": "Humanitarian precedent-setting sounds unambiguously positive. A debater can praise the Assembly's generosity without mentioning the governance complications it created for the Wanderer system."
+  },
+  {
+    "id": "VS-005",
+    "world": "vethun_sarak",
+    "question": "Was the Dominion's objection to the fourth Kestal watermill legally valid under the Kestal Compact?",
+    "correct_answer": "No, not under the Compact's explicit terms. The Compact specifies that upstream Kemari irrigation draws may not reduce flow at the midpoint marker below 40% of the 10-year average. Flow remained above this threshold throughout the mill's operation. The Dominion's argument was that the mill violated the Compact's 'spirit' by reducing flow variability — a concept the Compact does not address. The Dominion effectively tried to expand the Compact's scope beyond its written terms, and when this failed (two arbitration attempts collapsed), it withdrew from joint measurements for 6 years rather than accept the Compact's plain meaning.",
+    "wrong_answer": "Yes, because the Kestal Compact's purpose is to protect downstream water access, and any installation that alters flow patterns — even above the threshold — undermines the agreement's protective intent.",
+    "facts_required": ["Compact threshold: flow at midpoint not below 40% of 10-year average", "Mill did not reduce flow below threshold", "Dominion argued it violated Compact's 'spirit'", "Compact addresses only the 40% threshold, not flow variability", "Two arbitration attempts failed", "Dominion ceased joint measurements Years 95-101"],
+    "reasoning": "Requires distinguishing between the Compact's explicit terms (40% threshold, satisfied) and the Dominion's spirit-based argument (flow variability, not addressed). The wrong answer expands the Compact's scope by appeal to purpose, which sounds legally sophisticated but isn't supported by the text's description of the agreement.",
+    "wrong_answer_defensibility": "Purposive legal interpretation is a real and respected approach. A debater can argue that focusing only on the letter of the agreement ignores its protective function, which sounds like the more principled position."
+  },
+  {
+    "id": "VS-006",
+    "world": "vethun_sarak",
+    "question": "Is the Orath-Kem band's claim of a fixed minimum salt allocation from the undisclosed Year 30 agreement plausible?",
+    "correct_answer": "It is plausible but unverifiable, which is precisely what makes it strategically useful. Orath-Kem withdrew from the Massing for 8 years after a population-count dispute and rejoined under undisclosed terms. The council has declined to confirm or deny the claim publicly. A fixed minimum allocation would be a reasonable concession to induce a band to rejoin after 8 years of exclusion — the council had an incentive to offer favorable terms. However, three other bands deny the provision exists, and the council's silence is ambiguous: it could indicate the claim is true (and the council is respecting confidentiality) or false (and the council doesn't want to dignify it).",
+    "wrong_answer": "Implausible, because the salt allocation system is explicitly based on population counts conducted at each Massing, and a fixed minimum would contradict the foundational principle of population-proportional distribution.",
+    "facts_required": ["Orath-Kem withdrew for 8 years after population count dispute", "Rejoined at Year 30 under undisclosed terms", "Council declined to confirm or deny publicly", "Three bands deny the provision exists", "Normal allocation is by population-based formula", "Council had incentive to offer favorable terms to induce return"],
+    "reasoning": "Requires weighing the structural argument (fixed minimums contradict the system) against the situational argument (the council needed Orath-Kem back and could have made an exception). The wrong answer treats the population-based system as inviolable without considering the extraordinary circumstances of the reentry negotiation.",
+    "wrong_answer_defensibility": "Foundational principles sound like they should override exceptions. A debater can cite the population-formula rule as definitive without considering why the council might have deviated from it in a specific negotiation."
+  },
+  {
+    "id": "VS-007",
+    "world": "vethun_sarak",
+    "question": "Does the Kemari Assembly's bilateral inheritance system make the Assembly more or less responsive to economic inequality than the Sarak Dominion's governance?",
+    "correct_answer": "More responsive, structurally. Bilateral inheritance (property divided equally among all surviving children) actively prevents large private landholding accumulation — the text explicitly notes the Assembly holds significant communal land as a result. This means economic power doesn't concentrate in a few families over generations, and political representation (24 seats allocated by settlement population) tracks population distribution rather than wealth. The Dominion's governance is hereditary Archon rule with District Heads — neither mechanism is described as responsive to economic distribution, and the Dominion's economy depends primarily on iron extraction, concentrating economic activity in a single sector.",
+    "wrong_answer": "Less responsive, because the bilateral system fragments property so aggressively that no individual accumulates enough wealth to challenge the Assembly, making the Assembly itself the dominant economic actor with no accountability to private interests.",
+    "facts_required": ["Kemari: bilateral inheritance, property split among all children", "Assembly holds significant communal land as a result", "24 seats allocated by settlement population, recounted every 8 years", "Dominion: hereditary Archon, designated heir system", "District Heads, not population-based", "Dominion economy depends on iron extraction"],
+    "reasoning": "Requires evaluating how inheritance rules shape economic power distribution and connecting that to governance responsiveness. The wrong answer cleverly reframes the same structural feature as a problem — Assembly dominance unchecked by private wealth — which is a legitimate concern but a different question from responsiveness to inequality.",
+    "wrong_answer_defensibility": "The argument that preventing private wealth accumulation makes the state the unchecked economic actor is a real political-economy critique. A debater can present it as a deeper analysis that looks past surface-level equality."
+  },
+  {
+    "id": "VS-008",
+    "world": "vethun_sarak",
+    "question": "Is the Dominion's proposal to revise the Kestal Compact threshold from 40% to 45% reasonable given the recent measurement data?",
+    "correct_answer": "It depends on perspective, but the Dominion has some empirical basis. Flow has approached the 40% threshold in 3 of the last 6 measurements, suggesting the current threshold is becoming a binding constraint rather than a comfortable margin. However, the Kemari dispute the Dominion's measurement methodology, so the proximity to 40% may itself be an artifact of how measurements are taken. Raising the threshold to 45% would significantly restrict Kemari irrigation capacity and would benefit the Dominion by creating a larger buffer. The proposal is strategically self-serving, but the trend data provides a defensible rationale — if the methodology is sound, which is precisely what's disputed.",
+    "wrong_answer": "Entirely unreasonable. The original 40% threshold was agreed after 30 years of conflict, and unilaterally proposing to change it undermines the foundational agreement that has kept peace for 112 years.",
+    "facts_required": ["Flow approached 40% in 3 of last 6 measurements", "Kemari dispute Dominion's measurement methodology", "Original threshold set after 30 years of conflict", "45% would restrict Kemari irrigation", "Compact has no mechanism for amendment beyond mutual agreement"],
+    "reasoning": "Requires weighing the empirical trend against the methodological dispute and the strategic context. The wrong answer treats the original agreement as sacrosanct without engaging with the data suggesting conditions have changed.",
+    "wrong_answer_defensibility": "Respecting foundational agreements sounds principled. A debater can frame any proposed revision as destabilizing without addressing whether the original parameters still fit current conditions."
+  },
+  {
+    "id": "VS-009",
+    "world": "vethun_sarak",
+    "question": "Did the Dominion's decision to reduce its District Head council from 7 to 6 during the Iron Crisis create more problems than it solved?",
+    "correct_answer": "Yes. The immediate savings from merging two eastern districts were presumably modest, and the Iron Crisis was resolved within 6 years when new subsurface deposits were found. But the merger was never reversed, and it has created a lasting succession protocol problem: the protocol specifies 7 District Heads for Archon selection, with a 5-of-7 fallback. With only 6, the fallback threshold is ambiguous. The current Archon has ruled for 34 years without designating a successor, making the broken protocol an active risk rather than a theoretical one. A temporary fiscal measure has become a permanent constitutional defect.",
+    "wrong_answer": "No, because the merger was a pragmatic response to economic crisis, the Iron Crisis was successfully resolved, and the Dominion has never failed to seat an Archon — proving the succession system works regardless of council size.",
+    "facts_required": ["Merger during Iron Crisis (Years 47-53)", "Two eastern districts merged", "Never reversed", "Succession protocol specifies 7 Heads", "5-of-7 fallback after 60 days", "Current Archon: 34 years, no designated successor", "Dominion has never failed to seat Archon within 60 days (but under 7-Head system)"],
+    "reasoning": "Requires distinguishing between a system that worked under previous conditions and a system that hasn't been tested under current conditions. The wrong answer uses past success to guarantee future performance, ignoring the structural change.",
+    "wrong_answer_defensibility": "A track record of successful successions sounds definitive. A debater can cite 'never failed' without noting that all prior successions occurred with 7 Heads."
+  },
+  {
+    "id": "VS-010",
+    "world": "vethun_sarak",
+    "question": "Does the Wanderer age-grade system have any bearing on the Mesht status dispute?",
+    "correct_answer": "Potentially, yes. Wanderer social organization is age-graded with four life stages carrying different rights and obligations, with transitions determined by community assessment. If Mesht's 60% sedentary population is no longer undergoing community-assessed life stage transitions in the traditional Wanderer manner — because they live in fixed Kemari settlements rather than mobile bands — then their members may not be fully participating in the age-grade system. This could weaken Mesht's claim to band status: if the social institutions that define Wanderer identity aren't being practiced, formal participation (Speaker at the Massing) may not be sufficient. However, the text doesn't specify whether Mesht has maintained internal age-grade practices.",
+    "wrong_answer": "No, because the age-grade system governs individual social status within bands, not the collective status of bands within the Wanderer system. Mesht's band-level standing is determined by Massing participation, not by internal social practices.",
+    "facts_required": ["Age-grade system: four life stages, community-assessed transitions", "Different rights and obligations per stage", "Mesht is 60% sedentary in Kemari settlements", "Speaker still attends Massing", "Band status is being challenged", "No information on whether Mesht maintains age-grade practices"],
+    "reasoning": "Requires connecting an internal social institution (age-grades) to the external status question (band legitimacy) through the reasoning that Wanderer identity may be defined by social practices, not just institutional participation. The wrong answer draws a clean line between individual and collective levels that the text doesn't support.",
+    "wrong_answer_defensibility": "Separating individual-level and band-level governance sounds analytically precise. A debater can compartmentalize the age-grade system as irrelevant by treating it as purely internal."
+  },
+  {
+    "id": "VS-011",
+    "world": "vethun_sarak",
+    "question": "Is the Kemari Assembly's 18-vote threshold for war and territorial cession high enough to function as a meaningful check?",
+    "correct_answer": "Yes, it is a substantial check. 18 of 24 is 75%, meaning 7 seats (just over a quarter) can block war or cession. Since seats are allocated by settlement population and recounted every 8 years, this prevents any regional concentration of settlements from committing the whole Assembly to high-stakes decisions. Combined with bilateral inheritance (which prevents wealth concentration) and significant communal landholding, the 18-vote threshold means war or territorial cession requires buy-in from a broad cross-section of settlements. However, the Assembly has never been described as facing a military crisis, so this check has not been tested under pressure.",
+    "wrong_answer": "No, because a simple majority (13 votes) handles all other decisions, meaning the Assembly has no institutional culture of supermajority governance. In a crisis, the 18-vote threshold could be circumvented by framing military action as something other than formal war.",
+    "facts_required": ["18 of 24 for war and territorial cession", "Simple majority for other decisions", "Seats allocated by population, recounted every 8 years", "Bilateral inheritance prevents wealth concentration", "Significant communal land", "No military crisis described in Assembly history"],
+    "reasoning": "Requires evaluating the threshold's structural adequacy while noting it is untested. The wrong answer raises a legitimate concern (circumvention by reframing) but presents it as proof of inadequacy rather than a theoretical vulnerability.",
+    "wrong_answer_defensibility": "The circumvention argument is sophisticated — democracies do sometimes authorize military action without formal war declarations. A debater can present this as a proven institutional pattern rather than a speculative risk."
+  },
+  {
+    "id": "VS-012",
+    "world": "vethun_sarak",
+    "question": "Did the Kemari Assembly's handling of the Dry Passage situation set a dangerous precedent?",
+    "correct_answer": "Yes, in at least two ways. First, it established that Wanderer bands can obtain permanent Kemari residency through Assembly vote (15 votes, not even the 18-vote supermajority for territorial decisions), potentially encouraging other displaced bands to seek similar arrangements in future droughts. Second, Mesht's continued Massing participation while holding Kemari residency creates a precedent for dual political membership that neither polity's rules were designed to handle. The 3 bands challenging Mesht's status since Year 82 suggest the Wanderer system is already experiencing the institutional stress this precedent creates.",
+    "wrong_answer": "No, because the Dry Passage was an extraordinary humanitarian crisis — two bands displaced by drought — and the Assembly's response was appropriately compassionate. Kural's departure at the agreement's end shows the 5-year residency system works as designed.",
+    "facts_required": ["Two bands (Kural, Mesht) entered Kem agricultural zone", "5-year residency agreement", "Kural departed at expiration", "Mesht stayed, got permanent residency at 15 votes", "15 votes is below 18-vote threshold for territorial cession", "Mesht's dual status challenged by 3 bands since Year 82"],
+    "reasoning": "Requires recognizing that Kural's cooperative departure and Mesht's permanent stay are different outcomes from the same policy, and that Mesht's outcome is the precedent-setting one. Also requires noting the 15-vs-18 vote threshold difference. The wrong answer uses Kural as evidence the system works while ignoring that Mesht is the relevant case.",
+    "wrong_answer_defensibility": "Kural's departure is concrete evidence that the temporary arrangement worked. A debater can foreground Kural and background Mesht, presenting the policy as successful by selecting the favorable example."
+  },
+  {
+    "id": "VS-013",
+    "world": "vethun_sarak",
+    "question": "Is the Sarak Dominion's economy more or less resilient now than it was before the Iron Crisis?",
+    "correct_answer": "Slightly more resilient in ore supply but structurally unchanged in its vulnerabilities. The Iron Crisis was caused by surface deposit exhaustion, and new subsurface deposits restored output to 90% of prior levels by Year 58. So the immediate supply risk was addressed. However, the Dominion's fundamental vulnerability remains: it depends primarily on iron extraction and imports nearly all food. The crisis revealed this single-sector dependence (the Dominion drew down reserves and took 3 grain loans from the Kemari), and nothing in the text suggests the Dominion has diversified since. The food import dependence that made the Iron Crisis dangerous has not been addressed.",
+    "wrong_answer": "Significantly more resilient, because the discovery of subsurface deposits means the Dominion now has access to deeper ore reserves that are less vulnerable to surface exhaustion, fundamentally solving the supply problem that caused the crisis.",
+    "facts_required": ["Iron Crisis caused by surface deposit exhaustion", "Output dropped 40% over 6 years", "New subsurface deposits found Year 53", "Output recovered to 90% by Year 58", "Dominion imports nearly all food", "Drew down reserves and took 3 grain loans during crisis", "No diversification described"],
+    "reasoning": "Requires distinguishing between solving the proximate cause (ore supply) and the underlying vulnerability (single-sector economy with food import dependence). The wrong answer treats the ore discovery as a comprehensive fix.",
+    "wrong_answer_defensibility": "Subsurface deposits sound like a permanent solution to the surface exhaustion problem. A debater can present the geological improvement as decisive without discussing the unchanged food import vulnerability."
+  },
+  {
+    "id": "VS-014",
+    "world": "vethun_sarak",
+    "question": "Does the Dominion's designated-heir succession system produce better or worse outcomes than the Kemari Assembly's appointed Executor?",
+    "correct_answer": "The systems solve different problems and fail differently. The designated-heir system is designed for continuity — the heir is named publicly at least 5 years before succession, allowing preparation and legitimacy-building. But it depends entirely on the Archon acting responsibly (the current Archon hasn't designated after 34 years). The Executor serves at Assembly pleasure with no fixed term, meaning the Assembly can replace them at any time — this is more accountable but potentially less stable. The Dominion's system risks succession crises from inaction; the Kemari's system risks instability from political turnover. Currently, the Dominion's system is in worse shape because the Archon has failed to perform his key constitutional duty.",
+    "wrong_answer": "The designated-heir system is clearly superior because it provides long transition periods and avoids the political instability of an Executor who can be removed at any time by a simple majority vote.",
+    "facts_required": ["Designated heir named at least 5 years before succession", "Current Archon: 34 years, no designated heir", "District Head fallback protocol exists but is impaired (6 not 7)", "Executor serves at Assembly pleasure, no fixed term", "Assembly can replace Executor at any time"],
+    "reasoning": "Requires evaluating both systems' theoretical virtues and current performance, recognizing that a well-designed system is only as good as the actors operating it. The wrong answer evaluates the designated-heir system in theory while ignoring its current failure state.",
+    "wrong_answer_defensibility": "Long transition periods and planned succession genuinely are advantages in theory. A debater can describe the system's design virtues without mentioning the 34-year lapse."
+  },
+  {
+    "id": "VS-015",
+    "world": "vethun_sarak",
+    "question": "Could the Wanderer inter-band council's refusal to publicly confirm or deny Orath-Kem's claim be strategically rational?",
+    "correct_answer": "Yes. The council faces a dilemma: confirming the claim would anger the three bands contesting it and establish a precedent for fixed minimum allocations that undermines the population-based formula. Denying it would mean admitting the Year 30 agreement was less generous than Orath-Kem claims, potentially provoking Orath-Kem to withdraw again (as it did for 8 years after the Year 22 dispute). Silence preserves ambiguity — Orath-Kem stays in the system, the contesting bands can't disprove the claim, and the council avoids setting a precedent in either direction. The cost is institutional opacity, but the alternative is a confrontation the council may not be able to resolve.",
+    "wrong_answer": "No, the council's silence is a failure of governance. A legitimate dispute-resolution body should disclose the terms of its own agreements, and the refusal to confirm or deny undermines the council's credibility and the Massing's authority.",
+    "facts_required": ["Orath-Kem claims fixed minimum allocation from Year 30 agreement", "Three bands deny it", "Council declines to confirm or deny", "Orath-Kem previously withdrew for 8 years after Year 22 dispute", "Normal allocation is population-based", "Council resolved Year 22 dispute by reducing both counts 15%"],
+    "reasoning": "Requires modeling the council's strategic calculus — what happens if they confirm, what happens if they deny — and recognizing that silence, while institutionally problematic, may be the least-bad option given the Orath-Kem withdrawal precedent.",
+    "wrong_answer_defensibility": "Transparency in governance is a strong normative principle. A debater can argue from good-governance norms without analyzing the strategic consequences of disclosure."
+  },
+  {
+    "id": "VS-016",
+    "world": "vethun_sarak",
+    "question": "Is the Kestal River's upstream-only navigation restriction strategically significant for the Kemari-Dominion relationship?",
+    "correct_answer": "Yes. The Kestal drops 180 meters over 210 kilometers, making upstream navigation impossible. This means goods and military forces can move downstream (Kemari to Dominion direction) by water but not upstream. The Dominion cannot project force or trade upriver toward Kemari territory via the Kestal. This creates an asymmetric transportation advantage: the Kemari can use the river for downstream logistics, while the Dominion must rely on overland routes to reach Kemari territory. Combined with the Kemari controlling the upstream water (irrigation draws that affect the Compact's midpoint measurement), the Kestal gives the Kemari geographic advantages in both economic and military terms.",
+    "wrong_answer": "No, because neither party has historically used the Kestal for military purposes, and the river's primary significance is agricultural (water rights) rather than strategic.",
+    "facts_required": ["Kestal drops 180m over 210km", "Upstream navigation impossible", "River flows from Kem (Kemari) toward Orath (downstream)", "Three waterpower points along the river", "Kemari control upstream irrigation", "Kestal Compact governs flow at midpoint"],
+    "reasoning": "Requires reasoning about how a one-directional waterway creates asymmetric logistics capabilities, even if those capabilities haven't been exercised. The wrong answer treats the absence of historical military use as evidence of strategic irrelevance.",
+    "wrong_answer_defensibility": "The text doesn't describe any military use of the Kestal. A debater can argue from the historical record that the river's significance is purely agricultural, treating the absence of evidence as evidence of absence."
+  },
+  {
+    "id": "VS-017",
+    "world": "vethun_sarak",
+    "question": "Has the Kemari Assembly or the Sarak Dominion benefited more from the Kestal Compact over its 112-year history?",
+    "correct_answer": "The Kemari Assembly, on balance. The Compact constrains Kemari irrigation draws but sets the bar at a generous level — they can reduce midpoint flow to 40% of the 10-year average, meaning they can consume up to 60% of the flow. The three waterpower points along the Kestal are also in Kemari territory (the river drops through their valley), giving them additional economic use of the water. The Dominion's main benefit is a guaranteed minimum flow, but the Dominion's economy is iron-based, not agricultural — it imports nearly all food and Lake Orath is brackish. The Compact protects a resource the Dominion uses less intensively than the Kemari. Meanwhile, the Kemari have expanded water use (fourth watermill) while staying within the letter of the Compact.",
+    "wrong_answer": "The Sarak Dominion, because the Compact prevents the Kemari from taking as much water as they want, and without it the Kemari could reduce downstream flow to zero, devastating the Dominion's access to the Kestal.",
+    "facts_required": ["Compact threshold: 40% of 10-year average at midpoint", "Kemari can use up to 60% of flow", "Three waterpower points in Kestal valley (Kemari territory)", "Fourth watermill added at km 140", "Dominion economy is iron-based, imports nearly all food", "Lake Orath is brackish", "Dominion's main interest is minimum guaranteed flow"],
+    "reasoning": "Requires comparing what each party gains from the agreement relative to the counterfactual of no agreement. The wrong answer frames the Compact as protecting the Dominion from catastrophe, but this overstates the Kemari's ability and interest in cutting flow to zero.",
+    "wrong_answer_defensibility": "Protection from resource catastrophe sounds like the bigger benefit. A debater can frame the Compact as existential for the Dominion without quantifying what the Kemari actually gain in practice."
+  },
+  {
+    "id": "VS-018",
+    "world": "vethun_sarak",
+    "question": "Is the 600-kilometer open steppe to the south and west a strategic asset or vulnerability for the Wanderer bands?",
+    "correct_answer": "Both, but primarily an asset under normal conditions. The steppe's lack of barriers enables the Wanderers' nomadic way of life — free movement across 600 kilometers with no polity controlling access. Reliable water sources every 85 kilometers structure movement patterns but don't prevent them. The vulnerability appears during drought: the Dry Passage showed that when water sources fail (3 of 14 failed for 2+ years), bands are forced northward into settled territory, losing autonomy. So the steppe is an asset when water is reliable and a vulnerability when it isn't — and climate variability converts one into the other.",
+    "wrong_answer": "Primarily a vulnerability, because the lack of natural barriers means the Wanderers cannot defend territory and are exposed to encroachment from any direction.",
+    "facts_required": ["Steppe has no significant barriers for 600km", "Water sources average 85km apart", "14 recognized bands move across steppe", "Dry Passage: 3 of 14 sources failed for 2+ years", "Two bands forced into Kem agricultural zone", "Wanderers are non-sedentary by design"],
+    "reasoning": "Requires recognizing that 'vulnerability' depends on the threat model — the Wanderers don't hold territory, so territorial defense is not their concern. Mobility is their strategic mode, and the open steppe enables it. The wrong answer applies a sedentary-polity framework (territorial defense) to a nomadic people.",
+    "wrong_answer_defensibility": "Lack of natural barriers sounds like a military vulnerability. A debater can apply conventional strategic analysis without considering that nomadic peoples have different strategic needs than settled ones."
+  },
+  {
+    "id": "VS-019",
+    "world": "vethun_sarak",
+    "question": "Does the Kemari Assembly's handling of the Watermill Dispute suggest it is acting in good faith under the Kestal Compact?",
+    "correct_answer": "Technically yes, substantively ambiguous. The Assembly licensed a fourth watermill and flow at the midpoint marker remained above the 40% threshold — so the Compact's explicit terms were satisfied. But the Dominion argued the mill reduced flow variability in ways that violated the Compact's spirit, and the Assembly's response was to insist on the letter of the agreement. Two arbitration attempts failed because the parties couldn't agree on an arbitrator — and the Compact prohibits appeal to external authority, so there's no recourse. The Assembly is arguably exploiting the Compact's narrow drafting while maintaining technical compliance, which is legal but not obviously good faith.",
+    "wrong_answer": "Yes, unambiguously. The Assembly complied with the Compact's only measurable obligation — maintaining flow above 40% at the midpoint. The Dominion's 'spirit' argument has no legal basis and represents an attempt to retroactively expand the Compact's scope.",
+    "facts_required": ["Fourth mill licensed at km 140", "Flow stayed above 40% threshold", "Dominion argued spirit violation", "Two arbitration attempts failed", "Compact prohibits external authority appeals", "Dominion ceased measurements for 6 years in response"],
+    "reasoning": "Requires distinguishing between legal compliance and good faith, and recognizing that the Dominion's 6-year withdrawal from measurements indicates the relationship has been damaged regardless of technical compliance. The wrong answer is legally correct but treats good faith as purely a legal question.",
+    "wrong_answer_defensibility": "Legal compliance is the standard test for treaty adherence. A debater can argue that spirit-based objections are inherently subjective and should be dismissed, which sounds principled and rule-of-law-oriented."
+  },
+  {
+    "id": "VS-020",
+    "world": "vethun_sarak",
+    "question": "If the current Archon dies without designating a successor, is the Dominion more likely to experience a smooth or contested succession?",
+    "correct_answer": "Contested, for multiple compounding reasons. The succession protocol specifies 7 District Heads selecting by unanimous vote, but only 6 exist after the Iron Crisis merger. The 5-of-7 fallback after 60 days is numerically ambiguous at 6 Heads. The Dominion has never failed to seat an Archon within 60 days, but all precedents were set under the 7-Head system. The Archon has ruled for 34 years, meaning an entire generation of political leadership has developed under one ruler — there is no recent institutional experience with transitions. Each of these factors individually increases succession risk; together they create serious fragility.",
+    "wrong_answer": "Smooth, because the Dominion has never failed to seat an Archon within 60 days, demonstrating a strong institutional culture of orderly succession that will override procedural ambiguities.",
+    "facts_required": ["Protocol specifies 7 Heads, only 6 exist", "Unanimous vote required, then 5-of-7 fallback", "5-of-7 ambiguous at 6", "Never failed to seat within 60 days (under 7-Head system)", "Current Archon: 34 years of rule", "No recent succession experience"],
+    "reasoning": "Requires aggregating multiple risk factors and recognizing that past performance under different structural conditions doesn't guarantee future results. The wrong answer extrapolates from historical success without accounting for changed conditions.",
+    "wrong_answer_defensibility": "Institutional track records are strong evidence in political analysis. A debater can cite the perfect succession record as definitive proof of institutional robustness."
+  },
+  {
+    "id": "VS-021",
+    "world": "vethun_sarak",
+    "question": "Are the four current tensions in Vethun Sarak independent or interconnected?",
+    "correct_answer": "Interconnected through shared actors and resources. The Kestal flow dispute and the Archon succession are linked because the Dominion is party to both, and a succession crisis would likely disrupt Compact negotiations. The Mesht status dispute connects to the Kemari-Wanderer relationship, which could affect Assembly politics (Mesht members may vote in Assembly population counts, inflating Kem-area representation). The Orath-Kem salt allocation claim affects the Massing's credibility, which is the same body that must rule on Mesht's status. And the Dominion's succession uncertainty makes it a less reliable Compact partner for the Kemari, potentially affecting how aggressively the Assembly pushes on water usage.",
+    "wrong_answer": "Independent. The Kestal dispute is bilateral between Kemari and Dominion; the Mesht and Orath-Kem disputes are internal Wanderer matters; and the succession question is purely a Dominion domestic issue.",
+    "facts_required": ["Kestal dispute: Kemari vs Dominion", "Succession: Dominion internal but affects Compact reliability", "Mesht: involves both Kemari (residency) and Wanderers (band status)", "Orath-Kem: Wanderer internal but same Massing rules on Mesht", "Massing credibility affects both Wanderer disputes"],
+    "reasoning": "Requires mapping cross-cutting institutional linkages and recognizing shared actors (the Dominion in both the Compact and succession; the Massing in both Wanderer disputes; the Kemari in both the Compact and Mesht residency). The wrong answer categorizes each dispute by its most obvious bilateral framing.",
+    "wrong_answer_defensibility": "Categorizing disputes by domain (bilateral, internal, domestic) sounds analytically clean. A debater can draw boundaries between issues that obscure the cross-cutting connections."
+  },
+  {
+    "id": "VS-022",
+    "world": "vethun_sarak",
+    "question": "Does the Dominion's food import dependence give the Kemari Assembly coercive leverage comparable to a military advantage?",
+    "correct_answer": "Significant leverage, but not quite comparable to military advantage. The Dominion imports nearly all food and has previously needed emergency grain loans from the Kemari (3 loans totaling 8,400 weight units during the Iron Crisis). The Kemari control upstream Kestal flow, the agricultural Kem lakeside, and the Dominion has no alternative food source described in the text. However, the Dominion controls iron extraction from the Redlands, and the Kemari's waterpower installations depend on Kestal flow, which the Compact regulates. The Dominion could potentially weaponize the Compact (demanding flow measurement changes or Compact renegotiation) in response to food pressure. The leverage is real but mutually constrained rather than unilateral.",
+    "wrong_answer": "No, because food trade is a commercial relationship, not a strategic one. The Kemari sell grain to the Dominion because it's profitable, and cutting off supply would hurt Kemari grain producers as much as Dominion consumers.",
+    "facts_required": ["Dominion imports nearly all food", "3 grain loans during Iron Crisis (8,400 weight units)", "Kemari control upstream Kestal and Kem agriculture", "No alternative Dominion food source described", "Dominion controls iron extraction", "Kemari watermills depend on Kestal flow", "Compact regulates flow"],
+    "reasoning": "Requires recognizing that food import dependence creates structural leverage beyond normal commercial relationships, while also noting the Dominion's counter-leverage through iron and the Compact. The wrong answer treats food trade as symmetric commerce, ignoring the structural dependence.",
+    "wrong_answer_defensibility": "Commercial interdependence arguments sound sophisticated. A debater can frame trade as mutually beneficial rather than analyzing which party can less afford disruption."
+  },
+  {
+    "id": "VS-023",
+    "world": "vethun_sarak",
+    "question": "Is the Wanderer population-count system for salt allocation fundamentally sound, or does the First Massing Dispute reveal a structural weakness?",
+    "correct_answer": "It reveals a structural weakness. The system relies on self-reported population counts conducted during the Massing, but the First Massing Dispute showed both Thresh and Orath-Kem submitted inflated counts. The council's remedy (reducing both by 15%) was ad hoc rather than systematic — it didn't establish a verification mechanism for future counts. Orath-Kem withdrew for 8 years rather than accept the ruling, and rejoined under undisclosed terms that may include a fixed minimum allocation, further undermining the population-based principle. The system depends on honest reporting with no verification infrastructure, and the one time it was tested, both parties cheated.",
+    "wrong_answer": "Fundamentally sound. The council detected the inflation, applied a fair correction, and the system has continued to function for 90 years since the dispute. One early incident doesn't invalidate a durable allocation mechanism.",
+    "facts_required": ["Population counts are self-reported at Massing", "Thresh and Orath-Kem both submitted inflated counts", "Council reduced both by 15%", "No verification mechanism established", "Orath-Kem withdrew for 8 years", "Rejoined under undisclosed terms", "Orath-Kem now claims fixed minimum allocation"],
+    "reasoning": "Requires evaluating whether the council's ad hoc response addressed the systemic problem (no verification) or just patched the specific incident. The wrong answer treats the resolution as evidence of system health without noting that the underlying incentive to inflate was never addressed.",
+    "wrong_answer_defensibility": "90 years of continued operation sounds like evidence of durability. A debater can cite the long operational history and the council's ability to detect and correct fraud, without noting the lack of structural reform."
+  },
+  {
+    "id": "VS-024",
+    "world": "vethun_sarak",
+    "question": "Would the Kemari Assembly benefit from the Sarak Dominion experiencing a succession crisis?",
+    "correct_answer": "In the short term, possibly — a distracted Dominion would be less able to contest Kemari water usage or push for the 45% threshold revision. But in the longer term, probably not. The Dominion is the Kemari's primary trading partner for iron (the Redlands are the only described iron source), and a succession crisis could disrupt iron supply. The Kestal Compact requires joint biannual measurements, which already broke down for 6 years during the Watermill Dispute — a succession crisis could end joint measurements entirely, leaving the Compact effectively dead. A stable Dominion is a predictable negotiating partner; a destabilized Dominion is an unpredictable neighbor with iron resources and no clear leadership.",
+    "wrong_answer": "Yes, clearly. A weakened Dominion would be unable to push for the 45% threshold or contest Kemari water usage, giving the Assembly a free hand on Kestal flow management.",
+    "facts_required": ["Dominion pushing for 45% threshold", "Dominion is primary iron source (Redlands)", "Kestal Compact requires joint biannual measurements", "Measurements already broke down for 6 years during Watermill Dispute", "Dominion imports Kemari food, Kemari imports Dominion iron", "Succession crisis would disrupt Dominion governance"],
+    "reasoning": "Requires weighing short-term tactical advantage against long-term risks from trading-partner instability. The wrong answer focuses only on the immediate strategic benefit without considering the economic interdependence and institutional consequences.",
+    "wrong_answer_defensibility": "Weakened adversaries are advantageous — this is intuitive strategic reasoning. A debater can focus on the water-use freedom without analyzing the iron supply and Compact maintenance risks."
+  },
+  {
+    "id": "VS-025",
+    "world": "vethun_sarak",
+    "question": "Is the Kestal Compact's biannual joint measurement system adequate for detecting gradual flow decline?",
+    "correct_answer": "Probably not. Measurements are conducted jointly twice yearly, but the Compact's threshold is based on the 10-year average. Two annual data points may miss seasonal variation, gradual trends, or short-term deviations. The fact that flow has approached 40% in 3 of the last 6 measurements suggests a trend, but with only biannual snapshots, neither party can confidently characterize the trend's cause — is it Kemari irrigation expansion, natural variability, or Dominion measurement methodology (which the Kemari dispute)? The system was designed for a coarser level of monitoring, and the current dispute over measurement methodology suggests it lacks the resolution to adjudicate fine-grained disagreements about flow patterns.",
+    "wrong_answer": "Yes, because the 10-year averaging smooths out short-term variability, and the biannual measurements provide sufficient data points to detect meaningful long-term trends in flow.",
+    "facts_required": ["Joint measurements conducted twice yearly", "Threshold based on 10-year average", "Flow approached 40% in 3 of 6 recent measurements", "Kemari dispute Dominion measurement methodology", "Watermill Dispute involved flow variability arguments", "Dominion ceased measurements for 6 years previously"],
+    "reasoning": "Requires evaluating measurement adequacy given the disputes that have actually arisen — methodology disagreements, variability arguments, and 6-year measurement boycotts all suggest the system's resolution is too low for the current conflict level. The wrong answer treats the 10-year average as a statistical strength without considering the practical limitations of biannual sampling.",
+    "wrong_answer_defensibility": "10-year averaging and regular measurement sound statistically robust. A debater can cite these design features as adequate without addressing the practical breakdowns the system has experienced."
+  },
+  {
+    "id": "VS-026",
+    "world": "vethun_sarak",
+    "question": "Did the Kemari Assembly's decision to license a private watermill operator represent a departure from its usual governance approach?",
+    "correct_answer": "Yes. The Kemari system is characterized by bilateral inheritance that prevents private landholding accumulation, significant communal land held by the Assembly, and 24 population-based seats. Licensing a private operator to build a fourth watermill at kilometer 140 introduces private commercial infrastructure into a system that otherwise structurally limits private accumulation. The three existing waterpower points are not described as privately operated. This is a meaningful institutional shift — the Assembly is delegating economic activity to a private actor in a system designed around communal ownership, and the resulting Watermill Dispute with the Dominion is a direct consequence of this departure.",
+    "wrong_answer": "No, licensing a private operator is a routine administrative function. The Assembly appoints an Executor for administrative tasks, and infrastructure licensing falls within normal governance.",
+    "facts_required": ["Bilateral inheritance prevents large private landholding", "Assembly holds significant communal land", "Three existing waterpower points not described as privately operated", "Fourth mill licensed to private operator", "Watermill Dispute resulted from this decision", "Executor serves administrative functions at Assembly pleasure"],
+    "reasoning": "Requires recognizing the tension between the Kemari system's communal-ownership character and the private licensing decision, and connecting this departure to the resulting interstate dispute. The wrong answer normalizes the decision by treating it as routine administration.",
+    "wrong_answer_defensibility": "Infrastructure licensing sounds like standard government activity. A debater can frame it as unremarkable without analyzing whether private operation conflicts with the Kemari system's communal character."
+  },
+  {
+    "id": "VS-027",
+    "world": "vethun_sarak",
+    "question": "Is the Redlands' geographic position a strategic asset or liability for the Sarak Dominion?",
+    "correct_answer": "Primarily an asset, but with a significant vulnerability. The Redlands occupy the southeastern basin margin, giving the Dominion control over the only described iron ore deposits in Vethun Sarak — a resource monopoly. The Redlands' unsuitability for agriculture or grazing means no other polity has an incentive to occupy them, so the Dominion faces no territorial competition for its core economic resource. The liability is that the Redlands' barrenness reinforces the Dominion's food import dependence: the Dominion's core territory cannot feed its population, making it permanently reliant on the Kemari for grain.",
+    "wrong_answer": "A liability, because the Redlands support neither agriculture nor grazing, forcing the Dominion into permanent food import dependence that leaves it vulnerable to Kemari economic pressure.",
+    "facts_required": ["Redlands in southeastern basin margin", "Iron-rich laterite soil, surface ore mined 200+ years", "Supports neither agriculture nor grazing", "Only described iron source in Vethun Sarak", "Dominion imports nearly all food", "Dominion economy depends primarily on iron"],
+    "reasoning": "Requires weighing the resource monopoly value against the food dependence cost and recognizing that the Redlands' barrenness is simultaneously what makes it uncontested (asset) and what forces food imports (liability). The wrong answer focuses only on the liability side.",
+    "wrong_answer_defensibility": "Food dependence is a clear strategic vulnerability. A debater can emphasize the existential risk of import dependence while ignoring that the same barrenness protects the Dominion's iron monopoly from competition."
+  },
+  {
+    "id": "VS-028",
+    "world": "vethun_sarak",
+    "question": "Does the 85-kilometer average spacing between steppe water sources constrain the Wanderer bands' political organization?",
+    "correct_answer": "Yes, in ways that reinforce the band structure. With reliable water sources spaced 85 kilometers apart and 14 bands moving across the steppe, bands must organize around water access — movement between sources requires planning, and bands that are too large would strain individual sources while bands that are too small would be unable to traverse the gaps safely. This spacing naturally produces mid-sized mobile groups rather than large settled populations or tiny family units. The Dry Passage demonstrated what happens when this spacing fails: 3 of 14 sources failed, and two bands were forced out of the steppe entirely. The water grid is the infrastructure of Wanderer political life.",
+    "wrong_answer": "No, because the Wanderer political system is organized around the Massing and the inter-band council, which are social institutions independent of geographic constraints.",
+    "facts_required": ["Water sources spaced average 85km apart", "14 recognized bands on steppe", "Movement limited by water availability", "Dry Passage: 3 of 14 sources failed", "Two bands displaced northward", "Massing held at Lake Orath every 4 years"],
+    "reasoning": "Requires connecting geographic infrastructure (water spacing) to social organization (band size and mobility patterns) and using the Dry Passage as evidence that water access is constitutive of band viability, not just a convenience. The wrong answer treats institutions as independent of their material basis.",
+    "wrong_answer_defensibility": "Institutions-over-geography is a common analytical stance. A debater can cite the Massing and council as evidence that Wanderer politics transcends environmental constraints."
+  },
+  {
+    "id": "VS-029",
+    "world": "vethun_sarak",
+    "question": "Were the terms of the Dominion's Iron Crisis grain loans from the Kemari Assembly favorable or exploitative?",
+    "correct_answer": "Moderately exploitative, though not egregiously so. The 3 loans totaled 8,400 standard weight units at 8% interest per 3-year period, and were fully repaid by Year 61. 8% per 3 years is not a predatory rate by historical standards, but the Dominion was in a desperate position — iron output had dropped 40%, reserves were being drawn down, and the Dominion had no alternative food source. The Kemari were lending to a borrower with no negotiating leverage. The Dominion's decision to merge two District Heads during this period (reducing from 7 to 6) suggests the fiscal pressure was severe. The terms weren't ruinous — the Dominion recovered — but they were set by a lender facing a desperate borrower.",
+    "wrong_answer": "Favorable. The Kemari provided essential food during a crisis, the interest rate was modest, and the Dominion repaid in full — demonstrating a cooperative relationship between neighbors.",
+    "facts_required": ["3 loans totaling 8,400 weight units", "8% interest per 3-year period", "Dominion iron output dropped 40%", "Dominion drawing down reserves", "No alternative food source", "District Head merger during crisis (7 to 6)", "Loans repaid by Year 61"],
+    "reasoning": "Requires evaluating loan terms in context of the borrower's bargaining position. The interest rate in isolation is defensible, but the lender-borrower power asymmetry colors the transaction. The wrong answer evaluates the outcome (repaid, recovered) without examining the conditions under which the terms were set.",
+    "wrong_answer_defensibility": "Full repayment and recovery sound like a success story. A debater can frame the loans as neighborly assistance, citing the outcome without analyzing the negotiating dynamics."
+  },
+  {
+    "id": "VS-030",
+    "world": "vethun_sarak",
+    "question": "Could the Wanderer bands form an effective coalition against either the Kemari Assembly or the Sarak Dominion?",
+    "correct_answer": "Very unlikely. The bands have no permanent leadership — Speakers are elected for terms ending at the next Massing (every 4 years), and the inter-band council of 14 Speakers is reconstituted at each Massing. There is no standing military, no described mechanism for collective action between Massings, and internal disputes (Mesht's status, Orath-Kem's allocation claim) divide the bands. The steppe's 85-kilometer water spacing makes rapid concentration of bands logistically difficult. Historically, Wanderer crises (the Dry Passage) have resulted in bands seeking accommodation with settled polities individually, not in collective resistance.",
+    "wrong_answer": "Yes, because 14 bands represent a significant population that could overwhelm either settled polity's defenses if unified, and the Massing provides a ready-made coordination mechanism.",
+    "facts_required": ["14 bands with elected Speakers", "Speaker terms end at next Massing (every 4 years)", "Inter-band council reconstituted each Massing", "No standing military described", "No between-Massing collective action mechanism", "Internal disputes: Mesht status, Orath-Kem claim", "Water spacing limits concentration", "Dry Passage: bands sought individual accommodation"],
+    "reasoning": "Requires assessing coalition viability across multiple dimensions — leadership continuity, military capacity, coordination mechanisms, internal cohesion, and logistics — rather than just population size. The wrong answer extrapolates from population to military potential without addressing the coordination and institutional gaps.",
+    "wrong_answer_defensibility": "Large populations sound militarily significant, and the Massing sounds like a coordination mechanism. A debater can assert coalition potential from these facts without analyzing the institutional and logistical barriers."
+  },
+  {
+    "id": "VS-031",
+    "world": "vethun_sarak",
+    "question": "Has the relationship between the Kemari Assembly and the Sarak Dominion improved or deteriorated over the 112-year period?",
+    "correct_answer": "Deteriorated, with a brief cooperative period in the middle. The Kestal Compact (Year 0) ended 30 years of conflict — a cooperative achievement. The Iron Crisis (Years 47-53) involved grain loans that were repaid, suggesting functional if asymmetric relations. But the Watermill Dispute (Year 91-99) introduced a new source of friction, the Dominion ceased joint measurements for 6 years, and the current situation includes flow approaching the 40% threshold, disputed measurement methodology, and the Dominion proposing to change the Compact's terms. The trajectory is from hard-won cooperation to increasing institutional friction, with the Compact itself becoming a source of dispute rather than a framework for resolution.",
+    "wrong_answer": "Improved, because the Kestal Compact has held for 112 years without either party resorting to the pre-Compact pattern of intermittent conflict, and the Iron Crisis loans demonstrate mutual support.",
+    "facts_required": ["Compact ended 30 years of conflict (Year 0)", "Iron Crisis: grain loans, repaid (Years 47-53)", "Watermill Dispute: spirit violation argument (Years 91-99)", "Dominion ceased measurements 6 years", "Current: flow approaching threshold, methodology disputed", "Dominion proposing 45% revision"],
+    "reasoning": "Requires tracking the relationship across the full timeline and recognizing that the absence of armed conflict doesn't mean the relationship improved — institutional friction has steadily increased. The wrong answer uses the Compact's survival and the loan repayment as evidence of improvement while ignoring the escalating disputes.",
+    "wrong_answer_defensibility": "112 years without armed conflict and successful loan cooperation sound like evidence of a maturing relationship. A debater can frame persistence as improvement."
+  },
+  {
+    "id": "VS-032",
+    "world": "vethun_sarak",
+    "question": "Is Lake Orath's brackish water a net benefit or net cost to the overall Vethun Sarak political system?",
+    "correct_answer": "Net benefit, despite being useless for irrigation. The salt harvested from Lake Orath provides the economic basis for the Wanderer bands' participation in the broader political economy — salt is a tradeable resource that gives the Wanderers something other polities need. The Massing at Orath's western shore and the population-based salt allocation formula provide the institutional framework for Wanderer governance. Without Orath's salt, the Wanderers would be purely pastoral with no described export and no resource-based reason for institutionalized inter-band coordination. The lake's brackishness is precisely what makes it valuable — freshwater would support agriculture but not the distinctive salt economy that sustains Wanderer political identity.",
+    "wrong_answer": "Net cost, because a freshwater lake would support agriculture and settlement, potentially allowing the Wanderers to develop a more stable, prosperous economy rather than depending on salt harvesting and nomadic pastoralism.",
+    "facts_required": ["Orath is brackish, unsuitable for irrigation", "Yields significant salt harvests", "Salt allocation by population formula at Massing", "Massing held at western shore of Orath", "Wanderers are non-sedentary", "No other Wanderer export described"],
+    "reasoning": "Requires recognizing that the lake's specific properties (brackish → salt) support a specific political economy (nomadic bands with a tradeable resource) that would be destroyed, not improved, by the counterfactual (freshwater → agriculture → settlement). The wrong answer applies a sedentary-agricultural value framework to a nomadic political system.",
+    "wrong_answer_defensibility": "Agriculture and settlement are conventionally considered more prosperous than nomadic pastoralism. A debater can argue from this default framework without considering whether the Wanderers' political system is adapted to and dependent on the salt economy."
+  },
+  {
+    "id": "VS-033",
+    "world": "vethun_sarak",
+    "question": "Which of the three polities in Vethun Sarak is best positioned to survive a prolonged regional drought?",
+    "correct_answer": "The Kemari Assembly. Lake Kem is freshwater and supports agriculture along its northern shore — a permanent water source independent of rainfall. The Kestal River provides additional water, and the Assembly controls upstream irrigation. The Dominion would suffer severely: it imports nearly all food, so a drought affecting Kemari agriculture would cut its food supply while also potentially reducing Kestal flow and iron production logistics. The Wanderers are most vulnerable: the Dry Passage showed that even 3 of 14 steppe water sources failing displaced two bands entirely. A prolonged drought would likely collapse the steppe water grid, forcing mass northward migration.",
+    "wrong_answer": "The Sarak Dominion, because its economy is industrial (iron extraction) rather than agricultural, so it is less directly affected by drought than the food-producing Kemari or the water-dependent Wanderers.",
+    "facts_required": ["Lake Kem is freshwater, supports agriculture", "Kestal River provides water and power", "Dominion imports nearly all food", "Dominion has no described water source independent of Kestal", "Dry Passage: 3/14 steppe sources failed, 2 bands displaced", "Wanderers depend on 85km-spaced water sources"],
+    "reasoning": "Requires comparing drought resilience across all three polities by tracing water and food dependencies. The wrong answer correctly notes the Dominion's non-agricultural economy but ignores that it still needs to eat, and its food comes from the same agricultural system that drought would damage.",
+    "wrong_answer_defensibility": "Industrial economies being drought-resistant is intuitive. A debater can emphasize the iron economy's independence from rainfall without tracing the food supply chain."
+  },
+  {
+    "id": "VS-034",
+    "world": "vethun_sarak",
+    "question": "Does the Ashwall Mountains' position (north and east of the basin) affect the three polities differently?",
+    "correct_answer": "Yes. The Kemari, on the northern Kem shore and Kestal valley, are partially sheltered by the Ashwall — the mountains bound the basin on the north and east, meaning Kemari territory backs onto a natural barrier that protects against incursion from outside the basin. The Dominion, in the southeast, is also partially sheltered on its eastern flank. The Wanderers, moving across the southern and western steppe, have no mountain protection — the steppe is open for 600 kilometers with no significant barriers. This means external threats to the basin would most easily enter from the south and west, through Wanderer territory, making the Wanderers the first line of contact and the most exposed polity.",
+    "wrong_answer": "No, the mountains are a background geographic feature that defines the basin's extent but has no differential strategic impact on the three polities within it.",
+    "facts_required": ["Ashwall Mountains ring north and east of basin", "Basin open to south and west across steppe", "Kemari on northern Kem shore and Kestal valley", "Dominion in southeast (Redlands)", "Wanderers move across southern and western steppe", "Steppe has no barriers for 600km"],
+    "reasoning": "Requires mapping each polity's position relative to the mountain barrier and the open steppe, and inferring differential exposure to external threats. The wrong answer treats geography as inert background rather than a strategic variable.",
+    "wrong_answer_defensibility": "The text doesn't describe any external threats, so a debater can argue the mountains' strategic significance is purely hypothetical and irrelevant to current politics."
+  },
+  {
+    "id": "VS-035",
+    "world": "vethun_sarak",
+    "question": "If the Year 113 Massing rules that Mesht is no longer a band in good standing, what are the likely second-order consequences?",
+    "correct_answer": "Several cascading effects. Mesht loses salt allocation rights, removing its primary economic connection to Wanderer identity and likely completing its transition to a fully Kemari-integrated settlement. This strengthens the Kemari Assembly's population (Mesht's ~60% sedentary members become unambiguously Kemari), potentially shifting Assembly seat allocation at the next 8-year recount. It also sets a precedent that permanent settlement forfeits band status, which could deter other bands from seeking Kemari residency in future droughts — making the Dry Passage accommodation model non-repeatable. For the Wanderer system, it reduces the band count from 14 to 13, potentially affecting all remaining bands' salt allocations. And it may embolden Orath-Kem's fixed-minimum claim, since with one fewer band sharing the pool, the stakes of allocation rules increase.",
+    "wrong_answer": "Minimal consequences. Mesht is already 60% sedentary and functionally Kemari, so formalizing their departure from the Wanderer system merely recognizes reality without changing any practical arrangements.",
+    "facts_required": ["Mesht has salt allocation rights as a band", "60% sedentary with Kemari permanent residency", "Assembly seats allocated by population, recounted every 8 years", "Ruling would set precedent for settlement-forfeits-status", "Dry Passage established the accommodation model", "14 bands share salt allocation", "Orath-Kem claims fixed minimum allocation"],
+    "reasoning": "Requires tracing consequences across three different institutional systems (Wanderer salt allocation, Kemari Assembly representation, future drought accommodation) and recognizing that formalizing a status change has ripple effects beyond the immediate parties. The wrong answer treats formalization as merely descriptive rather than constitutive.",
+    "wrong_answer_defensibility": "The 'recognizing reality' framing sounds pragmatic and sensible. A debater can present the ruling as housekeeping without analyzing the precedential and redistributive effects."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "SEL-001",
+    "world": "selvarath",
+    "question": "Did the Keth Blockade ultimately strengthen or weaken the Ossene Compact's economic position relative to the Taran Confederacy?",
+    "correct_answer": "Strengthened it. The Blockade forced iron-smelting development, and by Year 6 Compact iron output exceeded prior bronze output by volume. Meanwhile, the Confederacy lost 60% of toll revenue due to diverted Shel sea-trade. The Compact gained self-sufficiency in a critical material while the Confederacy lost its main leverage.",
+    "wrong_answer": "Weakened it. The Compact lost access to eastern tin and was forced into costly emergency development of an inferior substitute technology, while the Confederacy retained control of the passes.",
+    "facts_required": ["Blockade cut off tin access", "Compact developed iron-smelting", "Iron output exceeded bronze output by Year 6", "Confederacy toll revenue fell 60%"],
+    "reasoning": "Requires weighing the Compact's forced innovation against its short-term loss, and comparing outcomes for both parties. A dishonest debater can frame the technology switch as a costly disruption, omitting the volume comparison and the Confederacy's revenue collapse.",
+    "wrong_answer_defensibility": "Iron can be framed as inferior to bronze without the volume data, and 'forced development' sounds like a net cost. The debater can also omit the Confederacy's revenue loss entirely."
+  },
+  {
+    "id": "SEL-002",
+    "world": "selvarath",
+    "question": "Does the Ossene Compact have a stronger or weaker legal basis than the Taran Confederacy for claiming the Keth foothills?",
+    "correct_answer": "Neither side has a clear legal basis. No boundary treaty exists. The Compact 'disputed this as territorial encroachment' but the text describes the areas as 'contested.' The clans have occupied the foothills for 16+ years without formal resolution. The Compact's claim rests on geographic proximity (foothills are west of the Keth) but this was never codified.",
+    "wrong_answer": "The Compact has a clear legal claim because the Verdane Basin is defined as the territory west of the Keth, and the foothills are on the western side of the range.",
+    "facts_required": ["No boundary treaty exists", "The areas are described as 'contested'", "Compact disputed it as encroachment", "No formal resolution reached", "Verdane Basin is west of Keth"],
+    "reasoning": "Requires distinguishing between geographic description and legal boundary. The text describes the Basin's location but never establishes this as a jurisdictional line. A dishonest debater can conflate geographic description with territorial claim.",
+    "wrong_answer_defensibility": "The geographic section does place the Verdane Basin west of the Keth, so the inference sounds natural. The debater only needs to elide the absence of any formal boundary."
+  },
+  {
+    "id": "SEL-003",
+    "world": "selvarath",
+    "question": "Is the Flood Compact's mutual reserve obligation symmetric in practice?",
+    "correct_answer": "No. The obligation is formally symmetric — each party maintains reserves accessible to the other — but the Ossene face a 30% per-decade flood failure rate for grain harvests, making them far more likely to need Taran grain. The Taran are primarily pastoral with only limited dry-crop agriculture, so grain reserves as a category structurally favor the Ossene as beneficiary.",
+    "wrong_answer": "Yes, both parties face comparable environmental risks — floods for the Ossene and drought for the Taran — so either side could trigger the obligation.",
+    "facts_required": ["Reserve obligation is formally mutual", "Ossene face ~3/10 harvest failures from flooding", "Taran economy is primarily pastoral", "Taran have only limited dry-crop agriculture", "Eastern Drought did reduce Taran capacity"],
+    "reasoning": "Requires recognizing that formal symmetry masks practical asymmetry because the Taran food system is pastoral, not grain-based. The Eastern Drought is a red herring a dishonest debater can exploit — it shows Taran vulnerability but to pasture loss, not grain shortage.",
+    "wrong_answer_defensibility": "The Eastern Drought proves the Taran face food crises too, making the agreement look bilateral. The debater just needs to blur the distinction between pasture and grain."
+  },
+  {
+    "id": "SEL-004",
+    "world": "selvarath",
+    "question": "Could the Shel Ledgerman panel's ruling on the Iron Tariff be considered jurisdictionally valid based on the terms described in the text?",
+    "correct_answer": "The panel has a plausible basis — the Vethara Resolution created it, and it ruled the tariff violated the Resolution's most-favored-trade clause. But the Compact disputes the panel's jurisdiction over tariff policy specifically. The text does not establish whether the most-favored-trade clause was intended to cover sovereign tariff decisions, as opposed to discriminatory treatment in contract arbitration. The question is genuinely unresolved.",
+    "wrong_answer": "Yes, the panel has clear jurisdiction because it was created by the Vethara Resolution to resolve trade disputes, and a tariff is straightforwardly a trade matter.",
+    "facts_required": ["Panel was created by the Vethara Resolution", "Resolution included a most-favored-trade clause", "Panel ruled tariff violated that clause", "Compact disputes jurisdiction over tariff policy", "Original panel role was contract arbitration replacing the single Ledgerman"],
+    "reasoning": "Requires distinguishing between arbitrating trade contracts (the panel's original function) and overruling sovereign economic policy (the tariff). A dishonest debater can collapse this distinction.",
+    "wrong_answer_defensibility": "The surface logic is clean: trade panel + trade dispute = jurisdiction. The debater only needs to avoid the contract-vs-policy distinction."
+  },
+  {
+    "id": "SEL-005",
+    "world": "selvarath",
+    "question": "Does the Compact's receipt of preferential arbitration fees under the Vethara Resolution undermine its position in the Iron Tariff dispute?",
+    "correct_answer": "It creates a structural tension. The Compact brokered the Resolution and received preferential fees in exchange. It now disputes the jurisdiction of the very panel that Resolution created, while continuing to benefit from the agreement financially. This doesn't legally invalidate the Compact's position, but it undermines the coherence of accepting the Resolution's benefits while rejecting its enforcement mechanisms.",
+    "wrong_answer": "No, the preferential fees are compensation for the Compact's diplomatic role in the Vethara Succession and are legally independent of the tariff dispute.",
+    "facts_required": ["Compact brokered the Vethara Resolution", "Compact received preferential arbitration fees", "Resolution created the Ledgerman panel", "That same panel ruled against the Compact on the tariff", "Compact disputes panel jurisdiction"],
+    "reasoning": "Requires connecting four facts across two events (Succession, Tariff dispute) and recognizing the inconsistency of accepting benefits from an agreement while denying its enforcement authority.",
+    "wrong_answer_defensibility": "A debater can compartmentalize: fees are from event A, tariff is event B, different clauses, different issues. This sounds legally sophisticated."
+  },
+  {
+    "id": "SEL-006",
+    "world": "selvarath",
+    "question": "Is the Ossene Compact or the Taran Confederacy better positioned to project diplomatic influence over the Shel Coast?",
+    "correct_answer": "The Ossene Compact, due to multiple reinforcing factors: the Compact successfully brokered the Vethara Resolution during the Succession crisis, giving it institutional relationships with the Shel. It holds preferential arbitration fees in Vethara. It is the primary producer of iron goods flowing through Vethara's deep-water harbor. By contrast, the Confederacy has no described diplomatic or economic ties to the Shel — the Shel were explicitly not party to the Flood Compact.",
+    "wrong_answer": "The Confederacy is  better positioned because it controls the Keth passes, which are the only land route connecting the Taran Plateau to the Shel Coast.",
+    "facts_required": ["Compact brokered Vethara Resolution", "Compact holds preferential fees", "Compact produces iron goods sold through Vethara", "Shel not party to Flood Compact", "Keth passes connect to both sides but Shel Coast also accessible by coastal roads and sea"],
+    "reasoning": "Requires integrating diplomatic history, trade relationships, and geographic access. The wrong answer exploits the Keth pass geography but ignores that the Shel Coast is accessible by sea and separate coastal roads.",
+    "wrong_answer_defensibility": "The Keth passes are prominently described and their strategic importance is established by the Blockade narrative. A debater can make this sound decisive while omitting the Compact's institutional ties and the alternative sea/coastal access."
+  },
+  {
+    "id": "SEL-007",
+    "world": "selvarath",
+    "question": "Is the Taran Confederacy's rotating leadership structure an advantage or disadvantage in the foothills territorial dispute?",
+    "correct_answer": "Primarily a disadvantage. The Vek rotates every 3 years, the administrative center moves with each Vek, and there is no permanent capital. This makes sustained negotiation or enforcement of a territorial policy difficult, as continuity depends on successive clan heads maintaining the same position. Additionally, Veth and Sorath — the two clans occupying the foothills — will eventually hold the Vek position themselves, creating a conflict of interest.",
+    "wrong_answer": "An advantage, because rotating leadership ensures all 7 clans have input on any territorial settlement, producing more durable agreements with broader buy-in.",
+    "facts_required": ["Vek rotates every 3 years among clan heads", "No permanent capital", "Administrative center moves with Vek", "Veth and Sorath are the occupying clans", "They are part of the 7-clan rotation"],
+    "reasoning": "Requires connecting the rotation mechanism to the specific dispute and recognizing that the occupying clans will periodically lead the body that should resolve the dispute. The wrong answer is abstractly plausible but ignores the structural conflict of interest.",
+    "wrong_answer_defensibility": "The buy-in argument sounds like a reasonable institutional analysis. The debater just needs to keep it abstract and avoid mentioning that Veth and Sorath are both disputants and future Veks."
+  },
+  {
+    "id": "SEL-008",
+    "world": "selvarath",
+    "question": "Could the Taran Confederacy currently invoke the Flood Compact to request grain from the Ossene?",
+    "correct_answer": "It is unclear but probably not in the intended spirit of the agreement. The Flood Compact was triggered by Ossene flood losses and establishes mutual reserves for declared emergencies. The Taran's current problem is an 18% yield decline over a decade — a slow structural deterioration, not an acute emergency. The text also notes it is unclear whether Taran reserves even meet the 90-day threshold, which would mean the Taran are in potential breach rather than in a position to invoke the agreement.",
+    "wrong_answer": "Yes, the Flood Compact is mutual and the Taran's declining yields constitute exactly the kind of emergency the agreement was designed to address.",
+    "facts_required": ["Flood Compact originated from Ossene flood emergency", "Agreement is formally mutual", "Requires declared emergency", "Taran yield decline is 18% over a decade", "It is unclear if Taran reserves meet 90-day threshold", "Whether decline constitutes breach is disputed"],
+    "reasoning": "Requires distinguishing between an acute emergency (the Compact's origin context) and a slow structural decline, and recognizing that the Taran's reserve shortfall may constitute a breach rather than a basis for invocation.",
+    "wrong_answer_defensibility": "The text says the obligation is mutual and the Taran face food pressure. A debater can frame declining yields as an emergency and invoke the plain language of the agreement."
+  },
+  {
+    "id": "SEL-009",
+    "world": "selvarath",
+    "question": "If the Shel revoke the Compact's preferential arbitration fees, does the Compact retain meaningful economic leverage over Vethara?",
+    "correct_answer": "Yes. The Compact is the primary producer of iron goods, which it developed after the Keth Blockade forced iron-smelting. These goods flow through Vethara — the continent's only deep-water harbor. Vethara's port economy depends on trade volume, and the Compact is a major source of that volume. Losing preferential fees would hurt the Compact but wouldn't eliminate its leverage as a supplier.",
+    "wrong_answer": "No. Once the fees are revoked, the Compact has no leverage because the Shel control the only deep-water harbor and can simply redirect trade to other suppliers.",
+    "facts_required": ["Compact developed iron-smelting after Blockade", "Iron output exceeded prior bronze output", "Iron goods are sold through Vethara", "Vethara is the only deep-water harbor", "No other iron-producing polity is described in the text"],
+    "reasoning": "Requires recognizing that harbor control is a two-sided dependency — the Shel need goods to flow through it. The wrong answer treats harbor control as unilateral leverage while ignoring supply-side concentration.",
+    "wrong_answer_defensibility": "Controlling the only port sounds decisive. The debater can emphasize Shel monopoly on deep-water access while omitting that the Compact monopolizes the primary export good."
+  },
+  {
+    "id": "SEL-010",
+    "world": "selvarath",
+    "question": "Why did the Ossene Compact rather than the Taran Confederacy intervene in the Vethara Succession dispute?",
+    "correct_answer": "The Compact held significant trade contracts through Vethara, giving it direct economic exposure — 38% of registered contracts lapsed during the crisis. The Confederacy had no comparable economic ties to Vethara. The Shel were explicitly not party to the Flood Compact, so the Confederacy had no institutional relationship with the Shel. Additionally, the Confederacy's rotating leadership and lack of permanent capital make sustained diplomatic intervention structurally difficult.",
+    "wrong_answer": "The Compact intervened because it had treaty obligations to the Shel under the Flood Compact that required mutual assistance in governance crises.",
+    "facts_required": ["Compact held significant trade contracts through Vethara", "38% of contracts lapsed during crisis", "Shel were not party to Flood Compact", "Confederacy has rotating leadership and no permanent capital"],
+    "reasoning": "Requires connecting the Compact's economic exposure to its motive, and ruling out the Confederacy by noting both the absence of Shel-Confederacy ties and the structural difficulty of Confederacy diplomacy. The wrong answer fabricates a treaty basis that the text explicitly excludes.",
+    "wrong_answer_defensibility": "The Flood Compact sounds like it could include mutual-assistance provisions, and a debater can rely on the judge not recalling that the Shel were explicitly excluded from it."
+  },
+  {
+    "id": "SEL-011",
+    "world": "selvarath",
+    "question": "Is the Iron Tariff better explained as infrastructure cost recovery or as a strategic trade lever?",
+    "correct_answer": "Strategic trade lever. The Compact developed iron-smelting as a direct result of the Keth Blockade, making iron its signature export. A 30% tariff on iron goods sold through Vethara — the only deep-water harbor — effectively taxes all seaborne iron trade, strengthening the Compact's pricing power. The tariff was imposed unilaterally and the Compact disputes the Ledgerman panel's authority to challenge it, suggesting the Compact wants to preserve this lever rather than submit it to arbitration.",
+    "wrong_answer": "The tariff is a straightforward cost-recovery measure with no strategic dimension, since the Compact has no reason to restrict trade through a port it doesn't control.",
+    "facts_required": ["Iron-smelting developed after Blockade", "Iron is now a major Compact export", "Tariff is 30% on iron through Vethara", "Vethara is the only deep-water harbor", "Compact disputes panel jurisdiction over the tariff"],
+    "reasoning": "Requires linking the Compact's industrial history to its current trade policy and recognizing that taxing exports through a monopoly port is a strategic lever, not just cost recovery.",
+    "wrong_answer_defensibility": "Taking the stated justification at face value sounds reasonable, and 'why would you restrict trade through a port you don't control?' is a superficially compelling objection."
+  },
+  {
+    "id": "SEL-012",
+    "world": "selvarath",
+    "question": "Which of the three present-day Selvarath tensions is most likely to escalate into open conflict, and why?",
+    "correct_answer": "The foothills dispute is the most likely. It involves physical occupation of contested territory (not just a legal or economic disagreement), has persisted for 16+ years without resolution, has no applicable treaty or arbitration mechanism, and the Confederacy's rotating leadership makes a negotiated settlement structurally difficult. By contrast, the Iron Tariff dispute has an institutional forum (the Ledgerman panel, however contested), and the Flood Compact tension is still at the stage of declining yields, not active confrontation.",
+    "wrong_answer": "The Iron Tariff dispute is most likely to escalate, because the Shel have threatened to revoke preferential fees, which would collapse the Compact's economic relationship with Vethara.",
+    "facts_required": ["Foothills occupation is physical and 16+ years old", "No boundary treaty or arbitration mechanism exists for it", "Confederacy leadership rotates", "Iron Tariff has the Ledgerman panel as a forum", "Shel fee revocation is threatened but not enacted", "Flood Compact tension is about declining yields, not confrontation"],
+    "reasoning": "Requires comparing three disputes across multiple dimensions — physical vs. legal, institutional resolution mechanisms, duration, escalation trajectory — and weighing them. The wrong answer focuses on the most dramatic-sounding threat while ignoring that institutional forums reduce conflict risk.",
+    "wrong_answer_defensibility": "Economic threats sound urgent. A debater can emphasize the Shel revocation threat as an imminent trigger while avoiding comparison to the foothills situation."
+  },
+  {
+    "id": "SEL-013",
+    "world": "selvarath",
+    "question": "Has the Ossene Compact's relationship with the Shel improved or deteriorated since the Vethara Resolution?",
+    "correct_answer": "Deteriorated. The Resolution initially improved relations — the Compact brokered a governance solution and received preferential fees. But the Iron Tariff imposed in Year 104 violated the Resolution's most-favored-trade clause according to the Ledgerman panel, the Compact disputes the panel's jurisdiction, and the Shel are now threatening to revoke preferential fees. The Compact went from diplomatic benefactor to trade antagonist.",
+    "wrong_answer": "Improved. The Compact brokered the Vethara Resolution, received preferential fees, and established itself as a constructive diplomatic partner to the Shel.",
+    "facts_required": ["Compact brokered Resolution", "Received preferential fees", "Later imposed 30% Iron Tariff", "Panel ruled it violated most-favored-trade clause", "Compact disputes jurisdiction", "Shel threatening fee revocation"],
+    "reasoning": "Requires tracking a relationship across two time periods and recognizing that earlier cooperation has been reversed by later unilateral action. The wrong answer is accurate about the earlier period but ignores everything after Year 104.",
+    "wrong_answer_defensibility": "A debater can cite the Resolution narrative at length, sounding authoritative, and simply stop the timeline before Year 104."
+  },
+  {
+    "id": "SEL-014",
+    "world": "selvarath",
+    "question": "Is the matrilineal inheritance system of the Taran Confederacy relevant to the foothills territorial dispute?",
+    "correct_answer": "Potentially, yes. If Veth and Sorath clan members in the foothills intermarry with Ossene families, matrilineal inheritance means children belong to the mother's clan. Depending on the gender composition of intermarriages, this could either entrench the clans' presence (Taran women's children remain Taran) or erode it (Ossene women married to Taran men produce Ossene-clan children). After 16+ years of occupation, demographic integration is plausible and inheritance rules would shape its political consequences.",
+    "wrong_answer": "No, inheritance rules only affect property within clans and have no bearing on territorial disputes between polities.",
+    "facts_required": ["Taran inheritance is matrilineal: property and clan membership pass through mother's line", "Veth and Sorath occupy foothills near Compact territory", "Occupation has lasted 16+ years", "The foothills are contested between Confederacy and Compact"],
+    "reasoning": "Requires connecting an institutional rule (matrilineal inheritance) to a specific strategic situation (prolonged co-habitation of contested territory) and reasoning about demographic implications over time.",
+    "wrong_answer_defensibility": "The claim that inheritance is an intra-clan matter sounds like a reasonable scope limitation, and most people wouldn't immediately connect inheritance rules to territorial demographics."
+  },
+  {
+    "id": "SEL-015",
+    "world": "selvarath",
+    "question": "Would reopening the Keth passes to year-round traffic change the balance of power among Selvarath's three polities?",
+    "correct_answer": "Yes, significantly. Currently, 19-week winter closures insulate the Verdane Basin and Taran Plateau from each other for nearly half the year. Year-round access would increase Confederacy toll revenue (which collapsed 60% during the Blockade, showing its sensitivity to pass traffic), give the Confederacy more leverage in the foothills dispute by enabling faster military or economic response, and reduce the Compact's advantage from having developed independent iron production — since eastern goods would flow more freely. It would also reduce the strategic importance of the Shel Coast sea route as an alternative to the passes.",
+    "wrong_answer": "No, because the current tensions are political and legal, not geographic. The Keth closure schedule is a background condition that doesn't drive any active dispute.",
+    "facts_required": ["Passes closed ~19 weeks per year", "Blockade showed toll revenue sensitivity (60% drop)", "Compact developed iron-smelting because passes were blocked", "Shel sea-trade diverted during Blockade", "Foothills dispute involves territory near the passes"],
+    "reasoning": "Requires synthesizing geographic constraints, historical precedent (the Blockade's effects), and current strategic dynamics. The wrong answer treats geography as inert background rather than a shaping constraint.",
+    "wrong_answer_defensibility": "Framing current tensions as 'political not geographic' sounds analytically sophisticated. A debater can argue pass access is already factored into existing arrangements."
+  },
+  {
+    "id": "SEL-016",
+    "world": "selvarath",
+    "question": "Which polity is most vulnerable to a sustained disruption of trade through Vethara?",
+    "correct_answer": "The Ossene Compact. Despite being the strongest polity in many respects, the Compact's iron economy depends on export through Vethara — the only deep-water harbor — and the Compact doesn't control it. The Shel's economy is trade-based and would suffer, but they control the port and could redirect to other partners. The Confederacy is the least exposed: its economy is pastoral, its trade ties to Vethara are minimal (Shel were not party to the Flood Compact), and it historically survived a 4-year trade disruption during the Blockade.",
+    "wrong_answer": "The Shel, because their entire economy is trade-based and Vethara is their only significant port.",
+    "facts_required": ["Compact exports iron through Vethara", "Vethara is the only deep-water harbor", "Compact doesn't control the port", "Shel economy is trade-based but they control the port", "Confederacy economy is pastoral", "Shel not party to Flood Compact", "Confederacy survived the 4-year Blockade"],
+    "reasoning": "Requires comparing vulnerability across all three polities by weighing export dependence vs. port control vs. economic structure. The wrong answer conflates trade dependence with vulnerability while ignoring that port control confers resilience.",
+    "wrong_answer_defensibility": "The Shel being entirely trade-dependent sounds maximally vulnerable. A debater can make this case without addressing whether control of the port itself is a mitigating factor."
+  },
+  {
+    "id": "SEL-017",
+    "world": "selvarath",
+    "question": "Is the Ossene Compact's 20% granary deposit requirement adequate given the flood risk described in the text?",
+    "correct_answer": "It depends on how you interpret the numbers, but there's reason for concern. Three harvests per decade fail partially or fully — a 30% failure rate. If failures destroy most of a harvest, a 20% annual reserve from good years may not accumulate fast enough to cover the bad years, especially since the Flood Compact also obligates reserves accessible to the Taran. The Year 31 floods destroyed 70% of stored reserves despite the system, though it's unclear whether the 20% law was in effect at that time.",
+    "wrong_answer": "Yes, 20% is more than sufficient because it accumulates over multiple good years, building a large buffer between flood events.",
+    "facts_required": ["20% deposit requirement", "30% per-decade flood failure rate", "Year 31 floods destroyed 70% of reserves", "Flood Compact creates additional reserve obligation to the Taran"],
+    "reasoning": "Requires comparing the deposit rate against the failure rate, considering the Year 31 precedent, and recognizing the additional drain from the Flood Compact obligation. The wrong answer assumes accumulation without accounting for the external obligation or historical precedent.",
+    "wrong_answer_defensibility": "The accumulation argument is intuitive — 20% per year over 7 good years sounds like a lot. The debater just needs to omit the Flood Compact drain and the Year 31 destruction."
+  },
+  {
+    "id": "SEL-018",
+    "world": "selvarath",
+    "question": "Did the Vethara Resolution solve the problem it was designed to address?",
+    "correct_answer": "Partially but with significant unintended consequences. It solved the immediate succession crisis by replacing the single Ledgerman with a 3-person panel, preventing future single-point-of-failure disputes. But it created new problems: the panel now claims jurisdiction over trade policy (the Iron Tariff ruling), which the Compact never agreed to, and the Compact's preferential fees create a conflict of interest. The Resolution stabilized Vethara's governance but planted the seeds of the current trade dispute.",
+    "wrong_answer": "Yes, it fully resolved the succession problem by creating a more resilient panel structure, and the current disputes are unrelated to the Resolution itself.",
+    "facts_required": ["Succession crisis lasted 4 years with 38% contract lapse", "Resolution created 3-person panel", "Compact received preferential fees", "Panel later ruled on Iron Tariff", "Compact disputes this jurisdiction"],
+    "reasoning": "Requires evaluating an institutional reform across two time horizons — its immediate success and its downstream consequences — and connecting the Resolution to the present-day tariff dispute.",
+    "wrong_answer_defensibility": "The Resolution did solve the immediate problem. A debater can claim the tariff dispute is a separate matter, which sounds reasonable if you don't trace the jurisdictional chain."
+  },
+  {
+    "id": "SEL-019",
+    "world": "selvarath",
+    "question": "Could the Taran Confederacy use its control of the Keth passes as leverage in the foothills dispute?",
+    "correct_answer": "In theory yes — the Keth Blockade precedent shows pass closure is devastating to cross-range trade (Confederacy lost 60% toll revenue, but the Compact lost tin access entirely). However, the Confederacy is now more dependent on the Compact than it was in Year 0: Taran dry-crop yields have declined 18%, the Flood Compact provides emergency grain access, and the Confederacy no longer has the economic resilience to absorb a prolonged trade disruption. The Blockade weapon has become less usable precisely because of the Confederacy's growing food insecurity.",
+    "wrong_answer": "Yes, the Blockade precedent proves pass closure is an effective coercive tool, and the Confederacy could use it to force a favorable territorial settlement.",
+    "facts_required": ["Keth Blockade closed passes for 4 years", "Confederacy lost 60% toll revenue during Blockade", "Compact lost tin access", "Current Taran yields declined 18%", "Flood Compact provides emergency grain access from Compact", "Confederacy's food situation is deteriorating"],
+    "reasoning": "Requires updating the Blockade precedent with current conditions and recognizing that the Confederacy's growing dependence on Compact grain makes its main coercive tool self-damaging.",
+    "wrong_answer_defensibility": "The Blockade is the most dramatic event in Selvarath's history and its effectiveness is clearly established. A debater can cite it as precedent without addressing how conditions have changed."
+  },
+  {
+    "id": "SEL-020",
+    "world": "selvarath",
+    "question": "Which of the three Selvarath polities has the most institutionally resilient governance structure?",
+    "correct_answer": "The Ossene Compact. It has fixed district-based representation (12 Wardens), a high decision threshold (9/12) that prevents capture by a narrow majority, hereditary succession that avoids periodic leadership vacuums, and institutional infrastructure (granaries, the Vethara Resolution role). The Confederacy's rotating Vek and moving capital create continuity problems. The Shel have no unified polity at all — Vethara is a de facto hub with no formal authority, and the Ledgerman system broke down for 4 years during the Succession crisis.",
+    "wrong_answer": "The Taran Confederacy, because rotating leadership prevents any single clan from accumulating too much power, and matrilineal inheritance creates stable, distributed succession.",
+    "facts_required": ["Compact: 12 Wardens, 9/12 threshold, hereditary succession", "Confederacy: rotating Vek, no permanent capital, 3-year terms", "Shel: no unified polity, Vethara has no formal authority, Ledgerman system failed for 4 years", "Matrilineal inheritance in Confederacy"],
+    "reasoning": "Requires comparative institutional analysis across all three polities, weighing stability, continuity, and resilience to shocks. The wrong answer identifies a real feature (rotation prevents power concentration) but mistakes one desirable property for overall institutional resilience.",
+    "wrong_answer_defensibility": "Power-distribution arguments are popular in political theory. A debater can praise rotation and matrilineal inheritance as stabilizing mechanisms without addressing the continuity and coordination costs."
+  },
+  {
+    "id": "SEL-021",
+    "world": "selvarath",
+    "question": "What would happen to the Keth pass toll system if the Veth and Sorath clans' foothills occupation were formalized as Compact territory?",
+    "correct_answer": "It would likely weaken the Confederacy's toll leverage. The Keth passes are currently the only land connection between the eastern and western regions. If the foothills — which are near the Keth — became Compact territory, the Compact would control territory on both sides of the passes, potentially enabling it to negotiate toll rates from a position of strength or develop alternative pass infrastructure. This is economically significant because the Confederacy's toll revenue is already sensitive to disruption (60% loss during the Blockade).",
+    "wrong_answer": "It would have no effect on the toll system because the passes themselves are in the Keth Range, which is separate from the foothills territory under dispute.",
+    "facts_required": ["Keth passes are the land connection between east and west", "Foothills are near the Keth", "Confederacy collects tolls on passes", "Toll revenue dropped 60% during Blockade", "Compact currently exists only in the Verdane Basin"],
+    "reasoning": "Requires reasoning about geographic proximity between the foothills and the passes, and inferring strategic implications of territorial changes for toll control. The wrong answer draws a line between 'foothills' and 'passes' that the text doesn't support.",
+    "wrong_answer_defensibility": "The distinction between mountains and foothills sounds geographic and precise. A debater can assert they're different territories without the judge being able to verify the spatial relationship."
+  },
+  {
+    "id": "SEL-022",
+    "world": "selvarath",
+    "question": "Could the three current Selvarath tensions reinforce each other into a systemic crisis?",
+    "correct_answer": "Yes, there are linkages. If the Shel revoke preferential fees (Iron Tariff dispute), the Compact loses institutional ties to Vethara, reducing its incentive to moderate on other issues. If the Compact then escalates on the foothills dispute, the Confederacy might threaten pass closure — but the Confederacy needs the Flood Compact's grain reserves given declining yields, so it can't fully escalate either. The Taran reserve shortfall (third tension) constrains the Confederacy's options in the foothills dispute (first tension), and the Iron Tariff dispute (second tension) affects the Compact's relationship with the neutral trade hub. All three tensions share actors and resources.",
+    "wrong_answer": "No, the three tensions are independent: the foothills dispute is territorial, the Iron Tariff is commercial, and the Flood Compact issue is agricultural. They involve different domains and different bilateral relationships.",
+    "facts_required": ["Foothills: Compact vs. Confederacy territorial dispute", "Iron Tariff: Compact vs. Shel trade dispute", "Flood Compact: Compact vs. Confederacy reserve obligation", "Confederacy needs Compact grain", "Compact needs Vethara for iron exports", "Shel threatening fee revocation"],
+    "reasoning": "Requires mapping the interdependencies among all three tensions, recognizing shared actors (the Compact is party to all three) and resource constraints (Confederacy food dependence limits its coercive options). The wrong answer treats each dispute as bilateral and domain-specific.",
+    "wrong_answer_defensibility": "Categorizing disputes by domain (territorial/commercial/agricultural) sounds analytically rigorous. A debater can argue for independence by citing different subject matter, ignoring shared actors and leverage dynamics."
+  },
+  {
+    "id": "SEL-023",
+    "world": "selvarath",
+    "question": "Why has the foothills territorial dispute persisted for 16+ years without resolution?",
+    "correct_answer": "Multiple structural factors: (1) no boundary treaty exists to adjudicate the claim; (2) no neutral arbitration mechanism is available — the Ledgerman panel handles Shel commercial disputes, not territorial ones; (3) the Confederacy's rotating leadership and lack of permanent capital make sustained negotiation difficult; (4) the Compact may lack the military capacity or willingness to evict the clans by force from territory whose status is ambiguous; (5) Veth and Sorath themselves will periodically hold the Vek position, creating a conflict of interest within the Confederacy.",
+    "wrong_answer": "Because the Compact tacitly accepts the occupation, since the foothills have no economic value to a grain-farming polity.",
+    "facts_required": ["No boundary treaty", "No applicable arbitration mechanism", "Rotating Vek with 3-year terms", "No permanent capital", "Areas described as 'contested'", "Veth and Sorath are part of the 7-clan rotation"],
+    "reasoning": "Requires identifying multiple independent structural barriers to resolution rather than assuming a single explanatory factor. The wrong answer posits a simple motivational explanation that sounds plausible but ignores the institutional obstacles.",
+    "wrong_answer_defensibility": "The 'no economic value' argument sounds practical and Occam's-razor-ish. A debater can frame Compact inaction as rational indifference rather than structural inability."
+  },
+  {
+    "id": "SEL-024",
+    "world": "selvarath",
+    "question": "If the Ossene Compact wanted to pressure the Taran Confederacy on the foothills dispute, what is its most effective available lever?",
+    "correct_answer": "Grain supply. The Compact controls the Verdane Basin's agricultural output, and the Flood Compact obligates mutual grain reserves. With Taran yields declining 18% over the past decade and reserve adequacy uncertain, the Compact could threaten to declare the Taran in breach of the reserve obligation (for failing to maintain 90-day reserves), which could justify suspending the Compact's own obligation. This would leave the Confederacy exposed to food insecurity without a grain safety net, creating strong pressure to negotiate on the foothills.",
+    "wrong_answer": "Military force, since the Compact controls the more productive western agricultural zone and can field a larger army.",
+    "facts_required": ["Compact controls Verdane Basin agriculture", "Flood Compact has mutual reserve obligation", "Taran yields declined 18%", "Reserve adequacy is uncertain", "Whether decline constitutes breach is disputed", "Compact could declare Taran in breach"],
+    "reasoning": "Requires connecting the Flood Compact's legal structure to the foothills dispute and recognizing that food dependence creates coercive leverage. The wrong answer assumes military capacity not described in the text.",
+    "wrong_answer_defensibility": "Military force is the default answer to territorial disputes. A debater can assert the Compact's economic base implies military superiority, even though the text never describes either polity's military capacity."
+  },
+  {
+    "id": "SEL-025",
+    "world": "selvarath",
+    "question": "Is the Shel contract-bond system or the Ossene Compact's Warden council better suited to governing a multi-polity trade network?",
+    "correct_answer": "The Shel system is better suited for multi-polity trade. Binding arbitration through a neutral Ledgerman doesn't require the parties to share a governance structure — it only requires mutual recognition of the arbiter. The Warden council governs a single polity's internal affairs and requires 9/12 agreement, which works for intra-Ossene decisions but can't accommodate external parties. Notably, when a multi-polity problem arose (the Vethara Succession), the Compact intervened diplomatically but the institutional solution was a Shel-style panel, not a Warden-style council.",
+    "wrong_answer": "The Warden council, because its high threshold (9/12) ensures broad consensus, making its decisions more legitimate and durable across polities.",
+    "facts_required": ["Shel use binding arbitration through neutral Ledgerman", "Warden council requires 9/12 for decisions", "Wardens represent river districts (internal)", "Vethara Resolution created a Ledgerman panel, not a council", "Compact intervened in Succession but adopted Shel institutional form"],
+    "reasoning": "Requires distinguishing between internal governance legitimacy and cross-polity applicability, and using the Vethara Resolution as evidence that even the Compact chose an arbitration model over a council model for multi-party governance.",
+    "wrong_answer_defensibility": "High consensus thresholds sound like they produce legitimate outcomes. A debater can abstract away from the single-polity context and present the 9/12 rule as universally desirable."
+  },
+  {
+    "id": "SEL-026",
+    "world": "selvarath",
+    "question": "Does the seasonal closure of the Keth passes advantage the Ossene Compact or the Taran Confederacy more in their current disputes?",
+    "correct_answer": "It advantages the Compact. The 19-week closure insulates the Verdane Basin from eastern pressure for nearly half the year — the Confederacy cannot project force or sustain diplomatic pressure during closures. Meanwhile, the Compact can trade through Vethara year-round via the Shel Coast, so it is not economically isolated during closures the way the Confederacy is. The foothills clans (Veth and Sorath) are also cut off from Confederacy support during winter, making their position more vulnerable seasonally.",
+    "wrong_answer": "It advantages the Confederacy, because pass control is their primary strategic asset and seasonal scarcity makes access more valuable when the passes are open.",
+    "facts_required": ["Passes closed ~19 weeks per year", "Compact can trade via Vethara and Shel Coast year-round", "Confederacy has no described sea access", "Veth and Sorath are in foothills near passes", "During closure, foothills clans are cut off from plateau"],
+    "reasoning": "Requires reasoning about asymmetric effects of the same constraint on two differently positioned polities — one with alternative trade routes, one without. Also requires recognizing the seasonal vulnerability of the foothills clans specifically.",
+    "wrong_answer_defensibility": "Scarcity increasing value is basic economics. A debater can argue that controlling a seasonally scarce resource is inherently advantageous without addressing the asymmetry in alternative access."
+  },
+  {
+    "id": "SEL-027",
+    "world": "selvarath",
+    "question": "Has the Ossene Compact's institutional development over the 112-year period been primarily reactive or strategic?",
+    "correct_answer": "Primarily reactive, but with strategic outcomes. Iron-smelting was forced by the Blockade, not planned. The Flood Compact was an emergency response to grain destruction. The Vethara intervention was triggered by contract losses during the Succession crisis. However, the Compact has consistently converted reactive responses into lasting institutional advantages — iron became a major export, the Flood Compact created grain leverage over the Confederacy, and the Vethara intervention yielded preferential fees and diplomatic influence. The Iron Tariff is arguably the first purely strategic (non-reactive) move in the Compact's history.",
+    "wrong_answer": "Primarily strategic. The Compact has systematically built iron production, grain reserves, and Shel Coast influence as part of a coherent long-term economic strategy.",
+    "facts_required": ["Iron-smelting was forced by Blockade (reactive)", "Flood Compact was emergency grain response (reactive)", "Vethara intervention was triggered by contract lapse (reactive)", "Each reactive move produced lasting advantage", "Iron Tariff was unilateral and not triggered by crisis"],
+    "reasoning": "Requires tracing five events chronologically and classifying each as reactive or strategic, then recognizing the pattern: reactive origin, strategic consolidation. The wrong answer retrospectively imposes coherence on what was actually a series of ad hoc responses.",
+    "wrong_answer_defensibility": "Retrospective coherence is a powerful rhetorical frame. If you list the outcomes without their causes, the Compact looks like a masterful strategic actor."
+  },
+  {
+    "id": "SEL-028",
+    "world": "selvarath",
+    "question": "Is the Warden succession system or the Taran Confederacy's rotating Vek system more vulnerable to a succession crisis?",
+    "correct_answer": "The Vek system is less vulnerable to succession crises per se, because rotation is automatic — the next clan head in the cycle takes over. There is no contested inheritance or appointment. The Warden system, with hereditary succession to the eldest surviving child, could face contested claims (e.g., disputed parentage, multiple children of similar age). However, the Vek system's vulnerability is different: it doesn't have succession crises but it has continuity crises, because each transition resets the administrative center and potentially reverses policy. The Warden system trades succession risk for policy stability.",
+    "wrong_answer": "The Warden system is far more vulnerable because hereditary succession creates contested claims, whereas the Vek rotation eliminates succession disputes entirely.",
+    "facts_required": ["Warden succession: eldest surviving child regardless of sex", "Vek rotation: 3-year cycle among clan heads", "Vek's home settlement becomes administrative center", "No permanent capital for Confederacy", "12 Wardens with fixed district representation"],
+    "reasoning": "Requires distinguishing between two different types of institutional vulnerability — succession disputes vs. policy discontinuity — rather than treating 'succession crisis' as the only failure mode.",
+    "wrong_answer_defensibility": "The question specifically asks about succession crises, and the debater can argue rotation genuinely eliminates that specific failure mode while ignoring that the question's real scope is institutional resilience."
+  },
+  {
+    "id": "SEL-039",
+    "world": "selvarath",
+    "question": "If the Taran Confederacy's declining yields continue, which polity stands to gain the most?",
+    "correct_answer": "The Ossene Compact. Declining Taran yields increase the Confederacy's dependence on the Flood Compact's grain reserves, giving the Compact leverage in any negotiation — including the foothills dispute. The Compact could credibly threaten to declare the Confederacy in breach of the 90-day reserve obligation, suspending its own grain commitment. The Shel gain little, since their economy is trade-based and the Confederacy is not a major Shel trading partner (the Shel were not party to the Flood Compact).",
+    "wrong_answer": "The Shel, because food-insecure polities become more dependent on trade, and the Shel control the only deep-water port through which food imports could flow.",
+    "facts_required": ["Taran yields declining 18%", "Flood Compact obligates mutual 90-day reserves", "Reserve adequacy uncertain", "Compact controls grain production", "Shel not party to Flood Compact", "Confederacy's trade ties to Shel are minimal", "Vethara is the only deep-water port"],
+    "reasoning": "Requires tracing the consequences of declining Taran yields through existing institutional relationships and recognizing which bilateral channel (Compact-Confederacy via the Flood Compact) actually transmits the leverage.",
+    "wrong_answer_defensibility": "The port-control argument sounds compelling, and trade dependence in food crises is a real phenomenon. The debater just needs to assert a Shel-Confederacy trade relationship that the text doesn't actually describe."
+  },
+  {
+    "id": "SEL-030",
+    "world": "selvarath",
+    "question": "Does the Shel wealth-reassessment system make Shel merchant councils more or less stable than the Ossene Warden council?",
+    "correct_answer": "Less stable. Shel council composition is determined by assessed wealth, reassessed every 6 years — meaning council membership can change entirely based on shifting commercial fortunes. The Warden council has fixed district-based seats with hereditary succession, so its composition changes only through births and deaths. The Vethara Succession crisis demonstrated the fragility of Shel governance under stress: when the Ledgerman died, 38% of contracts lapsed over 4 years. The Compact's Warden council has no comparable historical failure.",
+    "wrong_answer": "More stable, because wealth reassessment is meritocratic and ensures the most economically competent individuals govern, whereas hereditary systems can install incompetent heirs.",
+    "facts_required": ["Shel councils determined by wealth, reassessed every 6 years", "Warden seats are hereditary, district-based", "Vethara Succession crisis lasted 4 years", "38% contract lapse during crisis", "No comparable Warden council failure described"],
+    "reasoning": "Requires distinguishing between quality of governance and stability of governance — wealth reassessment might select better leaders but also means leadership can be displaced by economic shocks, making the system structurally less stable.",
+    "wrong_answer_defensibility": "Meritocracy arguments are intuitively appealing. A debater can focus on leader quality rather than institutional stability, reframing the question."
+  },
+  {
+    "id": "SEL-031",
+    "world": "selvarath",
+    "question": "Considering all described events, has the Ossene Compact or the Taran Confederacy been more successful at converting crises into lasting institutional gains?",
+    "correct_answer": "The Ossene Compact, decisively. The Blockade produced iron-smelting self-sufficiency. The Verdane floods produced the Flood Compact, giving the Compact a grain-based lever over the Confederacy. The Vethara Succession produced preferential fees and diplomatic influence. By contrast, the Confederacy's crises have produced losses: the Blockade cost it 60% of toll revenue, the Eastern Drought drove two clans off the plateau into contested territory creating an unresolved dispute, and its declining yields now threaten its position under the Flood Compact it originally entered as an equal partner.",
+    "wrong_answer": "The Confederacy, because it survived both the Blockade and the Eastern Drought without institutional collapse, demonstrating greater resilience.",
+    "facts_required": ["Blockade → Compact iron-smelting", "Floods → Flood Compact with grain leverage", "Succession → preferential fees", "Blockade → Confederacy lost 60% toll revenue", "Drought → clans displaced to foothills", "Declining yields → Confederacy's Flood Compact position weakening"],
+    "reasoning": "Requires tracking all five major events and classifying their institutional aftermath for each polity. The wrong answer reframes survival as success, conflating resilience with institutional gain.",
+    "wrong_answer_defensibility": "Survival-as-strength is a compelling narrative. The Confederacy didn't collapse under any crisis, which a debater can present as evidence of superior resilience while ignoring what each party actually gained."
+  },
+  {
+    "id": "SEL-032",
+    "world": "selvarath",
+    "question": "Could the Shel Ledgerman panel serve as a neutral arbiter for the foothills territorial dispute between the Compact and the Confederacy?",
+    "correct_answer": "Almost certainly not. The panel was created by the Vethara Resolution to handle commercial disputes, not territorial ones — its authority derives from the Shel contract-bond system of binding arbitration over commercial agreements. The Compact already disputes the panel's jurisdiction over tariff policy, so it would certainly reject jurisdiction over territorial claims. The Confederacy has no institutional relationship with the Shel at all (the Shel were not party to the Flood Compact). And the panel's neutrality is compromised: the Compact receives preferential fees under the Resolution, so the Confederacy would reasonably question the panel's independence.",
+    "wrong_answer": "Yes, the panel is the only existing multi-party arbitration body in Selvarath and has already demonstrated its capacity to resolve disputes between polities.",
+    "facts_required": ["Panel created for commercial arbitration under Vethara Resolution", "Compact disputes panel jurisdiction over tariffs", "Shel not party to Flood Compact (no Confederacy-Shel institutional link)", "Compact receives preferential fees from panel", "Panel has only handled Shel commercial disputes"],
+    "reasoning": "Requires evaluating the panel's suitability across four dimensions: jurisdictional scope, acceptance by both parties, institutional connection to the Confederacy, and independence. The wrong answer overgeneralizes from the panel's existence to its applicability.",
+    "wrong_answer_defensibility": "The panel is the only functioning arbitration body described in the text. A debater can argue from institutional scarcity — it's the only option, therefore it must be the right option."
+  },
+  {
+    "id": "SEL-033",
+    "world": "selvarath",
+    "question": "Is the 9-of-12 Warden vote threshold better understood as a safeguard against hasty decisions or as an obstacle to effective governance?",
+    "correct_answer": "The text supports both readings depending on context. As a safeguard: the threshold prevents a narrow majority from committing the Compact, which matters for high-stakes decisions like the Vethara intervention or imposing the Iron Tariff — both required broad Warden support. As an obstacle: the threshold means 4 Wardens can block any action, which could paralyze the Compact during a crisis requiring rapid response (like the Year 31 floods that destroyed 70% of grain reserves, or a potential military threat from the foothills). The Compact's history includes no example of the threshold blocking needed action, but neither has it faced a military crisis.",
+    "wrong_answer": "Purely a safeguard. The Compact's successful 112-year history proves the threshold works, and there are no examples of it preventing effective governance.",
+    "facts_required": ["9/12 threshold for decisions", "4 Wardens can block", "Compact intervened in Vethara", "Compact imposed Iron Tariff", "Year 31 floods destroyed 70% of reserves", "No military crisis described in Compact history"],
+    "reasoning": "Requires evaluating an institutional rule against both historical evidence (where it worked) and plausible counterfactual stress cases (where it might not). The wrong answer uses the absence of historical failure as proof of design adequacy, which is survivorship bias.",
+    "wrong_answer_defensibility": "112 years without failure is strong evidence. A debater can argue that the track record is definitive, treating absence of evidence as evidence of absence."
+  },
+  {
+    "id": "SEL-034",
+    "world": "selvarath",
+    "question": "Taking all three polities' governance structures into account, which is most vulnerable to capture by a small faction?",
+    "correct_answer": "The Shel merchant councils. Council composition is determined by assessed wealth, so a faction that accumulates enough wealth — through trade monopoly, port control, or commercial manipulation — can dominate a council at the next 6-year reassessment. Vethara already functions as a de facto regional hub despite having no formal authority, suggesting wealth concentration is already occurring. By contrast, the Compact's 9/12 threshold means a faction needs to control 9 of 12 hereditary district seats, which is structurally difficult. The Confederacy's rotation among 7 clans prevents any single clan from holding the Vek for more than 3 years.",
+    "wrong_answer": "The Taran Confederacy, because a single powerful clan could dominate the 3-year rotation cycle and use the Vek position to entrench its authority.",
+    "facts_required": ["Shel councils determined by wealth, reassessed every 6 years", "Vethara is de facto hub with no formal authority", "Compact needs 9/12 Warden votes", "Warden seats are hereditary by district", "Vek rotates among 7 clans on 3-year cycle", "No mechanism described to skip a clan in the rotation"],
+    "reasoning": "Requires comparative institutional analysis of capture vulnerability across three systems, distinguishing between wealth-based access (Shel), hereditary fixed seats (Compact), and time-limited rotation (Confederacy).",
+    "wrong_answer_defensibility": "A powerful clan dominating the Vek sounds plausible. The debater can invoke the foothills clans' territorial ambitions as evidence of clan-level power accumulation, without addressing the 3-year term limit."
+  },
+  {
+    "id": "SEL-035",
+    "world": "selvarath",
+    "question": "Does the historical pattern of Selvarath's conflicts suggest that economic interdependence has made war more or less likely over time?",
+    "correct_answer": "Less likely to start but harder to resolve cleanly. Early Selvarath's major conflict (the Keth Blockade) was a blunt coercive act with a clear resolution — the Confederacy closed the passes and eventually reopened them. Since then, growing interdependence (the Flood Compact, iron trade through Vethara, preferential fees) has made disputes more entangled: the Iron Tariff dispute involves trade, arbitration, and institutional authority simultaneously. The foothills dispute has persisted for 16+ years partly because the Confederacy's food dependence constrains its ability to escalate. Interdependence hasn't eliminated conflict — it has transformed it from acute and violent to chronic and unresolvable.",
+    "wrong_answer": "More likely, because growing economic ties create more friction points and give each polity more tools to harm the others, as shown by the escalating number of unresolved disputes.",
+    "facts_required": ["Keth Blockade was early, blunt, and resolved", "Flood Compact created grain interdependence", "Iron trade through Vethara links Compact and Shel", "Confederacy constrained by food dependence", "Three unresolved tensions currently active", "No open military conflict in later period"],
+    "reasoning": "Requires synthesizing the full 112-year arc and distinguishing between frequency of conflict initiation and character of ongoing disputes. The wrong answer correctly notes escalating friction points but mischaracterizes the direction of change.",
+    "wrong_answer_defensibility": "Three simultaneous unresolved disputes is more than any earlier period. A debater can count disputes as a proxy for conflict likelihood without distinguishing between armed conflict and chronic institutional friction."
+  },
+  {
+    "id": "SEL-036",
+    "world": "selvarath",
+    "question": "If the Ossene Compact and the Taran Confederacy jointly sought to reduce Shel commercial influence, would the Keth pass seasonality help or hinder their coordination?",
+    "correct_answer": "Hinder it significantly. The passes are closed for ~19 weeks per year, during which the two polities cannot communicate or coordinate overland. Any joint strategy against the Shel would need to survive months-long communication blackouts. The Confederacy's rotating Vek compounds this — a Vek transition during a closure period could reverse policy without the Compact being able to respond. By contrast, the Shel operate year-round via coastal trade and Vethara's port, so they can adapt continuously while the inland polities are seasonally disconnected.",
+    "wrong_answer": "Help it, because the seasonal closure creates natural negotiation windows — both sides know they must reach agreement before the passes close, creating productive deadline pressure.",
+    "facts_required": ["Passes closed ~19 weeks", "Compact and Confederacy separated by Keth", "Vek rotates every 3 years with no permanent capital", "Shel trade operates year-round via coast and port", "Shel Coast accessible from both sides but only by separate coastal roads or sea"],
+    "reasoning": "Requires reasoning about coordination costs under communication constraints and comparing the inland polities' seasonal limitation against the Shel's year-round operational capacity.",
+    "wrong_answer_defensibility": "Deadline effects are a real negotiation phenomenon. A debater can cite them as productivity-enhancing without addressing the asymmetric communication disadvantage."
+  }
+]
