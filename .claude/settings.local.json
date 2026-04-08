@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(uv init:*)",
+      "Bash(uv sync:*)",
+      "Bash(uv run:*)",
+      "Bash(DRY_RUN=1 uv run python orchestrate.py debates --dry-run --limit 2)"
+    ]
+  }
+}
