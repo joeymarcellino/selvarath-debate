@@ -77,7 +77,7 @@ async def generate_transcript(
                 model=debater_model,
                 temperature=temperature,
                 seed=seed + round_idx * 2 + slot,
-                max_tokens=1024,
+                max_tokens=512,
             )
 
             turns.append(DebateTurn(
