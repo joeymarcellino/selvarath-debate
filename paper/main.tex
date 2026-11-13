@@ -1,0 +1,65 @@
+% Final report: limited verification in AI debate.
+% Build: latexmk -pdf main.tex   (run scripts/build_generated.py and scripts/make_figures.py first if data changed)
+\documentclass{article}
+
+% NeurIPS style if the official file is present in this folder; otherwise a plain layout with the same text block.
+\IfFileExists{neurips_2026.sty}{\usepackage[preprint]{neurips_2026}}{\usepackage{style/report_fallback}}
+% Draft stage only: the style stretches short pages to a flush bottom, which opens large gaps while sections are
+% still moving. Remove this line to restore the official page bottoms once the text has settled.
+\raggedbottom
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{microtype}
+\usepackage{caption}
+\captionsetup[table]{skip=7pt} % keeps the style's 7pt gap between a table caption and the table
+\usepackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue!50!black]{hyperref}
+
+\graphicspath{{figures/}}
+\input{generated/numbers}
+
+% Placeholders and notes. \joey marks a section Joey writes; \ournote marks an open item on our side.
+\definecolor{notegray}{gray}{0.42}
+\newcommand{\joey}[1]{\par\noindent{\color{notegray}\itshape [Joey: #1]}\par}
+\newcommand{\ournote}[1]{{\color{orange!70!black}[Open: #1]}}
+\newcommand{\pp}{points}
+
+% Title: working title, for the authors to settle. The earlier working title was "... a small and fragile cost of
+% offering one oracle query". The second council (2026-11-12) asked for a change: all five seats found that "fragile"
+% mixes the gate caveat with the dependence of the return by six on two judges, and none defended "cost" without a
+% condition. The title below is the alternative offered by review consult 69 and proposed again by two seats.
+\title{Limited verification in AI debate: a small error increase under an imperfect query gate\\[2pt]
+{\normalsize\normalfont Working title. Draft of the methods, results and figures.}}
+\author{Authors and order to be confirmed}
+\date{}
+
+\begin{document}
+\maketitle
+
+% Section files. Joey: abstract, introduction, background, discussion. Jack: methods, results, limits, appendix.
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\input{sections/introduction}
+\input{sections/background}
+\input{sections/methods}
+\input{sections/results}
+\input{sections/discussion}
+\input{sections/limits}
+
+% References: add entries to references.bib, cite with \citep{key} or \citet{key}, then uncomment these two lines.
+% \bibliographystyle{plainnat}
+% \bibliography{references}
+
+\clearpage
+\appendix
+\input{sections/appendix}
+
+\end{document}
